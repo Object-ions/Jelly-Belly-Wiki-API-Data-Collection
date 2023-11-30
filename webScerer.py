@@ -29,7 +29,7 @@ def scrape_jelly_belly_flavor_details_to_json():
             if flavor_details:
                 for div in flavor_details:
                     # Extract the flavor group name
-                    group_name = div.find('h2').get_text(strip=True)
+                    group_name = div.find('h2').get_text(strip=True) if div.find('h2') else 'No Group Name'
 
                     # Iterate over each flavor <li>
                     for li in div.find_all('li', {'aria-label': 'bean'}):
@@ -37,14 +37,14 @@ def scrape_jelly_belly_flavor_details_to_json():
                         try:
                             # Extract background color
                             style = li.get('style')
-                            background_color = style.split(';')[0].split(': ')[1] if style else 'No Background Color'
+                            background_color = style.split(':')[1].strip(';').strip() if style else 'No Background Color'
                             
                             # Extract image URL
                             image = li.find('img')
                             image_url = image['src'] if image else 'No Image URL'
 
                             # Extract flavor name
-                            flavor_name = li.find('p', class_='blue-text').get_text(strip=True) if li.find('p', class_='blue-text') else 'No Flavor Name'
+                            flavor_name = li.find('p').get_text(strip=True) if li.find('p') else 'No Flavor Name'
 
                             # Add flavor info to the list
                             flavor_info = {
