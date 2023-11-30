@@ -19,16 +19,17 @@ def scrape_jelly_belly_flavors():
             # Parse HTML content
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # Find the <ul> element with class 'flavors'
-            flavors_list = soup.find('ul', class_='flavors')
+            # Find the <div> element with class 'flavor-coll-details'
+            flavor_details = soup.find_all('div', class_='flavor-coll-details')
             
-            if flavors_list:
-                # Iterate over each <li> element within the <ul>
-                for li in flavors_list.find_all('li'):
-                    # Extract and print the text from each <li>
-                    print(li.text.strip())
+            if flavor_details:
+                # Iterate over each found <div>
+                for div in flavor_details:
+                    # Extract and print the text from each <div>
+                    # You might need to adjust this based on the exact HTML structure
+                    print(div.text.strip())
             else:
-                print("Flavor list not found")
+                print("Flavor details not found")
         else:
             print(f"Failed to retrieve the page. Status Code: {response.status_code}")
     
