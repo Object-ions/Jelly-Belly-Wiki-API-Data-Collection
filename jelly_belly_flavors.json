@@ -1,0 +1,32 @@
+[
+    {
+        "Group Name": "Boba Milk Tea Flavors",
+        "Flavor Name": "Mango Milk Tea",
+        "Background Color": "rgb(235, 198, 105)",
+        "Image URL": "https://cdn-tp1.mozu.com/9046-m1/cms/files/e3183e7b-32e2-4912-b439-e3070b00354b?crop=260,455,1460,1220&max=100"
+    },
+    {
+        "Group Name": "Boba Milk Tea Flavors",
+        "Flavor Name": "Matcha Milk Tea",
+        "Background Color": "rgb(194, 225, 137)",
+        "Image URL": "https://cdn-tp1.mozu.com/9046-m1/cms/files/bb22db94-1576-444c-9d5c-5654760b63dc?crop=260,455,1460,1220&max=100"
+    },
+    {
+        "Group Name": "Boba Milk Tea Flavors",
+        "Flavor Name": "Strawberry Milk Tea",
+        "Background Color": "rgb(249, 202, 200)",
+        "Image URL": "https://cdn-tp1.mozu.com/9046-m1/cms/files/0172a080-8a8f-4e2d-802c-d9b596708950?crop=260,455,1460,1220&max=100"
+    },
+    {
+        "Group Name": "Boba Milk Tea Flavors",
+        "Flavor Name": "Taro Milk Tea",
+        "Background Color": "rgb(204, 183, 196)",
+        "Image URL": "https://cdn-tp1.mozu.com/9046-m1/cms/files/a0773550-2984-4533-b198-fe2552500342?crop=260,455,1460,1220&max=100"
+    },
+    {
+        "Group Name": "Boba Milk Tea Flavors",
+        "Flavor Name": "Thai Milk Tea",
+        "Background Color": "rgb(235, 172, 74)",
+        "Image URL": "https://cdn-tp1.mozu.com/9046-m1/cms/files/0c679fc3-78fc-4fac-9ec9-878b8ce6f057?crop=260,455,1460,1220&max=100"
+    }
+]
