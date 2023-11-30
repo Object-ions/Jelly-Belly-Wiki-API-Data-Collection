@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_jelly_belly_flavor_collections():
+def scrape_jelly_belly_flavor_details():
     # URL of the Jelly Belly Flavor Collections page
     url = 'https://www.jellybelly.com/jelly-belly-flavor-collections'
 
@@ -23,12 +23,32 @@ def scrape_jelly_belly_flavor_collections():
             flavor_details = soup.find_all('div', class_='flavor-coll-details')
             
             if flavor_details:
-                # Iterate over each <div> element
                 for div in flavor_details:
-                    # Extract and print the text from each <div>
-                    print(div.text.strip())
+                    # Extract the flavor group name
+                    group_name = div.find('h2').get_text(strip=True)
+                    print(f"Group Name: {group_name}")
+
+                    # Iterate over each flavor <li>
+                    for li in div.find_all('li', {'aria-label': 'bean'}):
+                        try:
+                            # Extract background color
+                            style = li.get('style')
+                            background_color = style.split(';')[0].split(': ')[1] if style else 'No Background Color'
+                            
+                            # Extract image URL
+                            image = li.find('img')
+                            image_url = image['src'] if image else 'No Image URL'
+
+                            # Extract flavor name
+                            flavor_name = li.find('p', class_='blue-text').get_text(strip=True) if li.find('p', class_='blue-text') else 'No Flavor Name'
+
+                            print(f"\tFlavor Name: {flavor_name}")
+                            print(f"\tBackground Color: {background_color}")
+                            print(f"\tImage URL: {image_url}\n")
+                        except IndexError as e:
+                            print("\tAn error occurred while processing a flavor item:", e)
             else:
-                print("Flavor collection details not found")
+                print("Flavor details section not found")
         else:
             print(f"Failed to retrieve the page. Status Code: {response.status_code}")
     
@@ -36,4 +56,4 @@ def scrape_jelly_belly_flavor_collections():
         print(f"An error occurred: {e}")
 
 # Run the function
-scrape_jelly_belly_flavor_collections()
+scrape_jelly_belly_flavor_details()
