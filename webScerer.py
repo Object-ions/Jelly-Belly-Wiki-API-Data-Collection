@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_jelly_belly_flavors():
-    # URL of the page to scrape
+def scrape_jelly_belly_flavor_collections():
+    # URL of the Jelly Belly Flavor Collections page
     url = 'https://www.jellybelly.com/jelly-belly-flavor-collections'
 
     # Setting a user-agent to mimic a browser request
@@ -19,17 +19,16 @@ def scrape_jelly_belly_flavors():
             # Parse HTML content
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # Find the <div> element with class 'flavor-coll-details'
+            # Find all <div> elements with class 'flavor-coll-details'
             flavor_details = soup.find_all('div', class_='flavor-coll-details')
             
             if flavor_details:
-                # Iterate over each found <div>
+                # Iterate over each <div> element
                 for div in flavor_details:
                     # Extract and print the text from each <div>
-                    # You might need to adjust this based on the exact HTML structure
                     print(div.text.strip())
             else:
-                print("Flavor details not found")
+                print("Flavor collection details not found")
         else:
             print(f"Failed to retrieve the page. Status Code: {response.status_code}")
     
@@ -37,4 +36,4 @@ def scrape_jelly_belly_flavors():
         print(f"An error occurred: {e}")
 
 # Run the function
-scrape_jelly_belly_flavors()
+scrape_jelly_belly_flavor_collections()
