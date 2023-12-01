@@ -15,3 +15,6 @@ Total time: 5 Hours
 12:35 - Add database classes
 
 Total time: 1 Hour, 50 Minutes
+
+<!-- Dec 1, 2023 --> 
+3: 05 PM - back on C# building API
