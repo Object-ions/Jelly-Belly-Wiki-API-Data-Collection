@@ -7,4 +7,5 @@
 ~break
 
 10:45 - Building API - Project organization and best practices
-11:15 - follow reading scuffuled API
+11:15 - Follow reading scuffled API
+11:45 - Continue working on API file.
