@@ -30,3 +30,8 @@ Total time: 1 Hour, 50 Minutes
 9:45 PM - Search how to separate the different databases into separate files. Search how to have an array of strings to hold the 'Recipe' data
 10:33 PM - Separate data to seeders
 10:33 PM - Separate data to seeders
+11:25 PM - Update models, data seeders, DbContext and migrations to take array of strings as data.
+*** APP IS WORKING WITHOUT BUGS ***
+commit SHA: (9c1df9c73195e9b0bb648bdf7db613c1533b6d19)
+
+Total time: 8 Hours, 20 Minutes
