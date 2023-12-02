@@ -27,3 +27,4 @@ Total time: 1 Hour, 50 Minutes
 7:35 PM - Update migrations
 8:15 PM - Add Recipe class and controller
 9:05 PM - Update Mock data, finalize basic API structure
+9:45 PM - Search how to separate the different databases into separate files. Search how to have an array of strings to hold the 'Recipe' data
