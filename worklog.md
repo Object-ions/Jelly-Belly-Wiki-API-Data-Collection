@@ -39,3 +39,4 @@ Total time: 8 Hours, 20 Minutes
 <!-- Dec 2, 2023 --> 
 11:00 AM - Start planning basic structure for UI (InDesign)
 12:00 AM - Working on UI (InDesign)
+12:43 PM - Working on Scraping data
