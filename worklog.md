@@ -25,3 +25,4 @@ Total time: 1 Hour, 50 Minutes
 6:33 PM - Add questions and further explorations ideas for my project (on Miro)
 7:00 PM - Add Facts class seed with data
 7:35 PM - Update migrations
+8:15 PM - Add Recipe class and controller
