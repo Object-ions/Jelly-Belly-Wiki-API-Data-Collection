@@ -14,7 +14,7 @@ Total time: 5 Hours
 12:15 - Planing the class (C#)
 12:35 - Add database classes
 
-Total time: 1 Hour, 50 Minutes
+Total time: 5 Hours, 50 Minutes
 
 <!-- Dec 1, 2023 --> 
 3:05 PM - back on C# building API
@@ -35,3 +35,6 @@ Total time: 1 Hour, 50 Minutes
 commit SHA: (9c1df9c73195e9b0bb648bdf7db613c1533b6d19)
 
 Total time: 8 Hours, 20 Minutes
+
+<!-- Dec 2, 2023 --> 
+11:00 AM - Start planning basic structure for UI (InDesign)
