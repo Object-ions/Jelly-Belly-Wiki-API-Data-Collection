@@ -41,3 +41,4 @@ Total time: 8 Hours, 20 Minutes
 12:00 AM - Working on UI (InDesign)
 12:43 - 1:35 PM - Working on Scraping data
 ~ break
+3:20 PM - Working on web scrape
