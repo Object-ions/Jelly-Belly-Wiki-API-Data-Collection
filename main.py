@@ -1,11 +1,23 @@
 from selenium import webdriver
-chrome_path = "/usr/local/bin/chromedriver"
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
-driver = webdriver.Chrome(chrome_path)
+# Initialize Chrome Options
+chrome_options = webdriver.ChromeOptions()
 
+# Set up Chrome Driver
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=chrome_options)
+
+# Your existing code
 driver.get("https://www.jellybelly.com/jelly-belly-single-flavors")
-driver.find_element_by_xpath("""//*[@id="7up"]""").click()
+button = driver.find_element_by_xpath("""//*[@id="7up"]/button""")
+button.click()
 
-posts = driver.find_elements_by_xpath("""//*[@id="flavor-content"]/div""")
-for post in posts:
-  print(post.text)
+# Find elements in the opened container
+description_elements = driver.find_elements_by_xpath("""//*[@id="descriptionContainer"]""")
+for element in description_elements:
+    print(element.text)
+
+# Close the driver
+driver.quit()
