@@ -21,3 +21,4 @@ Total time: 1 Hour, 50 Minutes
 4:00 PM - Building Bean Controller
 4:30 PM - Get ready to work with query strings
 5:30 PM - Adding Parameters to a Get Request to Support Query Strings
+6:20 PM - Add Fact class
