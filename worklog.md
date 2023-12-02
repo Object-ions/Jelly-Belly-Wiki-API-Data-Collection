@@ -26,3 +26,4 @@ Total time: 1 Hour, 50 Minutes
 7:00 PM - Add Facts class seed with data
 7:35 PM - Update migrations
 8:15 PM - Add Recipe class and controller
+9:05 PM - Update Mock data, finalize basic API structure
