@@ -29,3 +29,4 @@ Total time: 1 Hour, 50 Minutes
 9:05 PM - Update Mock data, finalize basic API structure
 9:45 PM - Search how to separate the different databases into separate files. Search how to have an array of strings to hold the 'Recipe' data
 10:33 PM - Separate data to seeders
+10:33 PM - Separate data to seeders
