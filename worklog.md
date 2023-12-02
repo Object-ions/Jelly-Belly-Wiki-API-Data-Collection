@@ -19,3 +19,4 @@ Total time: 1 Hour, 50 Minutes
 <!-- Dec 1, 2023 --> 
 3:05 PM - back on C# building API
 4:00 PM - Building Bean Controller
+4:30 PM - Get ready to work with query strings
