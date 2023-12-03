@@ -54,3 +54,5 @@ Total time: 8 Hours, 20 Minutes
 12:00 AM - Working on Scraper
 12:30 AM - merge dynamic data and static data
 1:10 AM adjust content from merged dynamic and static data
+
+10:10 AM - adjusting content manually (cross data from dynamic and static json)
