@@ -44,3 +44,4 @@ Total time: 8 Hours, 20 Minutes
 3:20 PM - Working on web scrape
 4:00 PM working on Scraper
 4:45 PM working on Scraper
+5:15 ~break
