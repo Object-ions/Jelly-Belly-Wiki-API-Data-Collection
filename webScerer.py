@@ -1,3 +1,9 @@
+# This script will scrape the url and collect STATIC data includes:
+    # "Group Name"
+    # "Flavor Name"
+    # "Background Color"
+    # "Image URL"
+
 import requests
 from bs4 import BeautifulSoup
 import json
