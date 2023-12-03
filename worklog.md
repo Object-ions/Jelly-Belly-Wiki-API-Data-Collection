@@ -52,3 +52,4 @@ Total time: 8 Hours, 20 Minutes
 10:43 PM - working on a new script to merge both bean data
 11:20 PM - Working on scraper
 12:00 AM - Working on Scraper
+12:30 AM - merge dynamic data and static data
