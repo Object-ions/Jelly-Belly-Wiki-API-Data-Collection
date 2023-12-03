@@ -47,3 +47,4 @@ Total time: 8 Hours, 20 Minutes
 5:15 ~break
 8:15 Pm - Working on data scrape
 8:55 PM - Working on data scraping
+9:25 PM - Update Json file and get ready to merge data to one json file
