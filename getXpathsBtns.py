@@ -1,3 +1,5 @@
+# This script will generate the xpath for the target elements
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
