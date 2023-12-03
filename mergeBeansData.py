@@ -1,3 +1,6 @@
+# This script will take the 2 JSON files and cross information and merge duplicates between the files.
+    # Add bools and BeanId in a sequence
+
 import json
 
 # Function to load JSON data from a file
