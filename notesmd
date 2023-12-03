@@ -1,0 +1,78 @@
+Thank you for the additional details. Based on your description, it sounds like each time a "Learn more" button is clicked, a dynamic container (div#flavor-content) becomes visible, which contains the details of each flavor.
+
+Given this, we need to adjust the script to:
+
+Click each "Learn more" button.
+Wait for the corresponding div#flavor-content to become visible.
+Extract the flavor name, description, and ingredients from within this container.
+Repeat the process for each flavor.
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import json
+import traceback
+
+# Initialize Chrome Options
+chrome_options = webdriver.ChromeOptions()
+
+# Set up Chrome Driver
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service, options=chrome_options)
+
+try:
+    # Navigate to the website
+    driver.get("https://www.jellybelly.com/jelly-belly-single-flavors")
+
+    # Handle cookie consent
+    WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "cookie-consent"))
+    ).click()
+
+    # Find all flavor elements
+    flavors = driver.find_elements(By.CSS_SELECTOR, "li.single")
+    print(f"Found {len(flavors)} flavors")
+    flavor_data = []
+
+    for index, flavor in enumerate(flavors):
+        print(f"Processing flavor {index + 1}")
+        learn_more_button = flavor.find_element(By.CSS_SELECTOR, "button[aria-controls='flavor-content']")
+        driver.execute_script("arguments[0].scrollIntoView(true);", learn_more_button)
+        driver.execute_script("arguments[0].click();", learn_more_button)
+
+        # Wait for any content change in the flavor content container
+        WebDriverWait(driver, 10).until(
+            lambda d: d.find_element(By.ID, "flavor-content").get_attribute("innerHTML") != ""
+        )
+
+        # Extract data
+        container = driver.find_element(By.ID, "flavor-content")
+        flavor_name = container.find_element(By.CSS_SELECTOR, "h3.title").text
+        description = container.find_element(By.CSS_SELECTOR, "p.shortDesc").text
+        ingredients = container.find_element(By.CSS_SELECTOR, "p.ingredients").text
+
+        flavor_data.append({
+            "FlavorName": flavor_name,
+            "Description": description,
+            "Ingredients": ingredients
+        })
+
+    # Write the results to a JSON file
+    with open("flavor_data.json", "w") as file:
+        json.dump(flavor_data, file, indent=4)
+
+except Exception as e:
+    print("An error occurred:")
+    traceback.print_exc()
+
+finally:
+    # Close the driver
+    driver.quit()
+
+print("Flavor data extraction complete. Check flavor_data.json for results.")
+
+
+-- return 103 empty fields
