@@ -353,7 +353,7 @@
   },
   {
     "BeanId": 28,
-    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors, , Tropical Mix Flavors",
     "FlavorName": "GREEN APPLE",
     "BackgroundColor": "#0E7534",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/5b0694eb-f83b-4bc2-a78e-0b48d5bfcd0e",
@@ -379,7 +379,7 @@
   },
   {
     "BeanId": 30,
-    "GroupName": "Jewel Jelly Beans Flavors",
+    "GroupName": "Jewel Jelly Beans Flavors, , Tropical Mix Flavors",
     "FlavorName": "JEWEL BERRY BLUE",
     "BackgroundColor": "#085881",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-jewel-berry-blue-shadow.webp",
@@ -769,7 +769,7 @@
   },
   {
     "BeanId": 60,
-    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors, Tropical Mix Flavors",
     "FlavorName": "PEACH",
     "BackgroundColor": "#EB8435",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/c75fe96b-333c-420d-869b-6fba2486a914",
@@ -808,7 +808,7 @@
   },
   {
     "BeanId": 63,
-    "GroupName": "Cocktail Classics® Flavors",
+    "GroupName": "Cocktail Classics® Flavors, Tropical Mix Flavors",
     "FlavorName": "PI\u00d1A COLADA",
     "BackgroundColor": "#7EB159",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-margarita-shadow.webp",
@@ -1002,7 +1002,7 @@
   },
   {
     "BeanId": 78,
-    "GroupName": "Jelly Belly Official Flavors, Cocktail Classics® Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Cocktail Classics® Flavors, Tropical Mix Flavors",
     "FlavorName": "STRAWBERRY DAIQUIRI",
     "BackgroundColor": "#B95A66",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/cce90e1d-7ced-4e18-a05b-734c36287baf",
@@ -1054,7 +1054,7 @@
   },
   {
     "BeanId": 82,
-    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors, Tropical Mix Flavors",
     "FlavorName": "SUNKIST® LEMON",
     "BackgroundColor": "#F9D501",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/3094b345-8a9e-4ec8-a079-f7a71241c006",
@@ -1093,7 +1093,7 @@
   },
   {
     "BeanId": 85,
-    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors, Tropical Mix Flavors",
     "FlavorName": "SUNKIST® PINK GRAPEFRUIT",
     "BackgroundColor": "#E6986B",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/3827a360-1573-4ed7-bf95-b80a4d4f610c",
@@ -1106,7 +1106,7 @@
   },
   {
     "BeanId": 86,
-    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors, Tropical Mix Flavors",
     "FlavorName": "SUNKIST® TANGERINE",
     "BackgroundColor": "#EE734A",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/7b266567-cd0b-4c08-956a-734395bf7aed",
@@ -1157,7 +1157,7 @@
     "Kosher": false
   },
   {
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Tropical Mix Flavors",
     "BeanId": 90,
     "FlavorName": "TOP BANANA",
     "BackgroundColor": "#CCA42C",
@@ -1237,7 +1237,7 @@
   },
   {
     "BeanId": 96,
-    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors, Tropical Mix Flavors",
     "FlavorName": "LEMON LIME",
     "BackgroundColor": "#D5DC55",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/e1300522-2a05-429c-82b8-3c4f46754c5c",
