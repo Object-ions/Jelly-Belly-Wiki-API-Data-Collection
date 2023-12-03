@@ -3,6 +3,7 @@
     # "Description"
     # "Ingredients"
 
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
@@ -23,7 +24,7 @@ driver = webdriver.Chrome(service=service, options=chrome_options)
 driver.get("https://www.jellybelly.com/jelly-belly-single-flavors")
 
 # Load the XPaths from the file
-with open("button_xpaths.json", "r") as file:
+with open("get_xpath.json", "r") as file:  # Corrected file name here
     button_xpaths = json.load(file)
 
 # Initialize the data list
