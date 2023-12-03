@@ -1,9 +1,10 @@
 [
   {
     "BeanId": 1,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Soda Pop Shoppe® Flavors",
     "FlavorName": "7UP",
     "BackgroundColor": "#E1DFE1",
+    "BackgroundColor": "#83AD5C",
     "ImageUrl": "",
     "Description": "The refreshing and crisp flavor of lemon lime soda.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE",
@@ -936,6 +937,58 @@
     "Kosher": false
   },
   {
+    "BeanId": 73,
+    "GroupName": "Sours Flavors",
+    "FlavorName": "SOUR GRAPE",
+    "BackgroundColor": "#3a7295",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-grape-shadow.webp",
+    "Description": "So sour. So good. Flavorings of real grape juice produces a fresh from the vine taste.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, TARTARIC ACID, GRAPE JUICE CONCENTRATE, GUM ARABIC, NATURAL & ARTIFICIAL FLAVOR, VEGETABLE & FRUIT JUICE (COLOR), COLOR ADDED, RED 40, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+  },
+  {
+    "BeanId": 74,
+    "GroupName": "Sours Flavors",
+    "FlavorName": "SOUR LEMON",
+    "BackgroundColor": "#F9D501",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-lemon-shadow.webp",
+    "Description": "This bean packs extra pucker power. Real lemon puree' delivers its special tasty tartness.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LEMON JUICE FROM PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, FUMARIC ACID, SODIUM LACTATE, SODIUM CITRATE, NATURAL FLAVOR, COLOR ADDED, YELLOW 5, YELLOW 5 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+  },
+  {
+    "BeanId": 75,
+    "GroupName": "Sours Flavors",
+    "FlavorName": "SOUR ORANGE",
+    "BackgroundColor": "#F99B25",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-orange-shadow.webp",
+    "Description": "Pucker up! Flavored with real orange puree.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, GRAPE JUICE CONCENTRATE, LEMON PUREE, CHERRY JUICE CONCENTRATE, ORANGE PUREE, CITRIC ACID, FUMARIC ACID, SODIUM CITRATE, SODIUM LACTATE, NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, BLUE 1 & 2, BLUE 1 & 2 LAKE, YELLOW 5 & 6 LAKE, YELLOW 5, TURMERIC (COLOR), BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+  },
+  {
+    "BeanId": 76,
+    "GroupName":
+    "FlavorName": "STRAWBERRY BANANA SMOOTHIE",
+    "BackgroundColor": ,
+    "ImageUrl":
+    "Description": "Go ahead. Mix it up! A delicious combo flavored with real strawberry and banana purees.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: POMEGRANATE JUICE CONCENTRATE, PEACH PUREE CONCENTRATE, BANANA PUREE, PEAR JUICE CONCENTRATE, NATURAL AND ARTIFICIAL FLAVORS, CITRIC ACID, SODIUM LACTATE, SODIUM CITRATE, COLOR ADDED, RED 40, YELLOW 5 & 6, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, RED 40 LAKE, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT, COFFEE, TAPIOCA DEXTRIN.",
+     "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+    },
+  {
     "BeanId": 77,
     "GroupName": "Jelly Belly Official Flavors",
     "FlavorName": "STRAWBERRY CHEESECAKE",
@@ -956,6 +1009,19 @@
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/cce90e1d-7ced-4e18-a05b-734c36287baf",
     "Description": "You'll feel like you are poolside as you enjoy the fresh fruity taste. We flavor each bean with real strawberry puree.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, STRAWBERRY JUICE FROM PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, YELLOW 6, RED 40, YELLOW 5 & 6 LAKE, TAPIOCA DEXTRIN, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+  },
+  {
+    "BeanId": 79,
+    "GroupName": "Krispy Kreme® Doughnuts Flavors",
+    "FlavorName": "STRAWBERRY ICED",
+    "BackgroundColor": "#E798AB",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-strawberry-iced-shadow-new-new.webp",
+    "Description": "Classic glazed donut flavors with the added indulgence of strawberry icing.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, CITRIC ACID, COCOA POWDER, NATURAL & ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, RED 40, VEGETABLE AND FRUIT JUICE (COLOR), TAPIOCA DEXTRIN, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, GROUND CINNAMON, SALT.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
@@ -987,32 +1053,6 @@
     "Seasonal": false,
     "Kosher": false
   },
-  {
-    "BeanId": 87,
-    "GroupName": "Boba Milk Tea Flavors",
-    "FlavorName": "TARO MILK TEA",
-    "BackgroundColor": "rgb(204, 183, 196)",
-    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/a0773550-2984-4533-b198-fe2552500342",
-    "Description": "Take your taste buds on a journey with this internationally-inspired flavor. The perfect blend of taro milk tea and tapioca pearls make up this truly unique bean.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED, RED 40, BLUE 1SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED, RED 40, BLUE 1.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-  },
-  {
-    "BeanId": 88,
-    "GroupName": "Boba Milk Tea Flavors",
-    "FlavorName": "THAI MILK TEA",
-    "BackgroundColor": "rgb(235, 172, 74)",
-    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/0c679fc3-78fc-4fac-9ec9-878b8ce6f057",
-    "Description": "Experience the rich and aromatic blend of Thai milk tea and tapioca pearls in every bite.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED, YELLOW 6 LAKE, YELLOW 5.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-  }
   {
     "BeanId": 82,
     "GroupName": "Jelly Belly Official Flavors",
@@ -1073,6 +1113,32 @@
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/7b266567-cd0b-4c08-956a-734395bf7aed",
     "Description": "Get ready for a sweet and tart taste that's flavored with real tangerine juice for a burst of flavor.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, TANGERINE JUICE FROM CONCENTRATE, 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, NATURAL FLAVOR, COLOR ADDED, YELLOW 6, RED 40, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+  },
+  {
+    "BeanId": 87,
+    "GroupName": "Boba Milk Tea Flavors",
+    "FlavorName": "TARO MILK TEA",
+    "BackgroundColor": "rgb(204, 183, 196)",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/a0773550-2984-4533-b198-fe2552500342",
+    "Description": "Take your taste buds on a journey with this internationally-inspired flavor. The perfect blend of taro milk tea and tapioca pearls make up this truly unique bean.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED, RED 40, BLUE 1SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED, RED 40, BLUE 1.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+  },
+  {
+    "BeanId": 88,
+    "GroupName": "Boba Milk Tea Flavors",
+    "FlavorName": "THAI MILK TEA",
+    "BackgroundColor": "rgb(235, 172, 74)",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/0c679fc3-78fc-4fac-9ec9-878b8ce6f057",
+    "Description": "Experience the rich and aromatic blend of Thai milk tea and tapioca pearls in every bite.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED, YELLOW 6 LAKE, YELLOW 5.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
@@ -1184,6 +1250,19 @@
     "Kosher": false
   },
   {
+    "BeanId": 97,
+    "GroupName":
+    "FlavorName": "LEMON MERINGUE PIE",
+    "BackgroundColor": ,
+    "ImageUrl": 
+    "Description": "A tart and sweet taste you'll swear was topped with meringue. Flavored with real lemon puree.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: LEMON PUREE, CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, VEGETABLE AND FRUIT JUICE (COLOR), YELLOW 5 & 6 LAKE, BLUE 2 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+    },
+  {
     "BeanId": 98,
     "GroupName": "Jelly Belly Official Flavors",
     "FlavorName": "LICORICE",
@@ -1197,33 +1276,44 @@
     "Kosher": false
   },
   {
-    "BeanId": 79,
-    "GroupName": "Krispy Kreme® Doughnuts Flavors",
-    "FlavorName": "STRAWBERRY ICED",
-    "BackgroundColor": "#E798AB",
-    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-strawberry-iced-shadow-new-new.webp",
-    "Description": "Classic glazed donut flavors with the added indulgence of strawberry icing.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, CITRIC ACID, COCOA POWDER, NATURAL & ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, RED 40, VEGETABLE AND FRUIT JUICE (COLOR), TAPIOCA DEXTRIN, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, GROUND CINNAMON, SALT.",
+    "BeanId": 99,
+    "GroupName":
+    "FlavorName": "PINA COLADA",
+    "BackgroundColor":
+    "ImageUrl":
+    "Description": "Smooth & creamy with just a hint of tartness. Flavored with real pear and pineapple juices.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: COCONUT, CITRIC ACID, ARTIFICIAL FLAVORS, COLOR ADDED, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
     "Kosher": false
-  },
-
-  {
-    "BeanId": 1,
-    "GroupName": "Soda Pop Shoppe® Flavors",
-    "FlavorName": "7UP",
-    "BackgroundColor": "#83AD5C",
-    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-7-up-shadow_2.webp",
-    "Description": "The refreshing and crisp flavor of lemon lime soda.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE",
+    },
+    {
+    "BeanId": 100,
+    "GroupName":
+    "FlavorName": "BLUE RASPBERRY",
+    "BackgroundColor":
+    "ImageUrl":
+    "Description": "Enjoy the taste of a fresh-picked raspberry in a beautiful blue hue.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, SODIUM CITRATE, BLUE 1 LAKE, BLUE 1, CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
     "Kosher": false
-  },
-
+    },
+    {
+    "BeanId": 101,
+    "GroupName":
+    "FlavorName": "BLUE RASPBERRY",
+    "BackgroundColor":
+    "ImageUrl":
+    "Description": "Enjoy the taste of a fresh-picked raspberry in a beautiful blue hue.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, SODIUM CITRATE, BLUE 1 LAKE, BLUE 1, CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+    },
   {
     "BeanId": 102,
     "GroupName": "Cold Stone® Flavors",
@@ -1237,45 +1327,19 @@
     "Seasonal": false,
     "Kosher": false
   },
+  {
+    "BeanId": 103,
+    "GroupName":
+    "FlavorName": "BIRTHDAY CAKE",
+    "BackgroundColor":
+    "ImageUrl":
+    "Description": "Make everyday taste like your birthday.",
+    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL & ARTIFICIAL FLAVORS, TAPIOCA DEXTRIN, COLOR ADDED, YELLOW 5 & 6 LAKE, RED 40 LAKE, RED 40, BLUE 1 & 2 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT.",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+    }
   
-  {
-    "BeanId": 73,
-    "GroupName": "Sours Flavors",
-    "FlavorName": "SOUR GRAPE",
-    "BackgroundColor": "#3a7295",
-    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-grape-shadow.webp",
-    "Description": "So sour. So good. Flavorings of real grape juice produces a fresh from the vine taste.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, TARTARIC ACID, GRAPE JUICE CONCENTRATE, GUM ARABIC, NATURAL & ARTIFICIAL FLAVOR, VEGETABLE & FRUIT JUICE (COLOR), COLOR ADDED, RED 40, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-  },
-  {
-    "BeanId": 74,
-    "GroupName": "Sours Flavors",
-    "FlavorName": "SOUR LEMON",
-    "BackgroundColor": "#F9D501",
-    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-lemon-shadow.webp",
-    "Description": "This bean packs extra pucker power. Real lemon puree' delivers its special tasty tartness.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LEMON JUICE FROM PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, FUMARIC ACID, SODIUM LACTATE, SODIUM CITRATE, NATURAL FLAVOR, COLOR ADDED, YELLOW 5, YELLOW 5 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-  },
-  {
-    "BeanId": 75,
-    "GroupName": "Sours Flavors",
-    "FlavorName": "SOUR ORANGE",
-    "BackgroundColor": "#F99B25",
-    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-orange-shadow.webp",
-    "Description": "Pucker up! Flavored with real orange puree.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, GRAPE JUICE CONCENTRATE, LEMON PUREE, CHERRY JUICE CONCENTRATE, ORANGE PUREE, CITRIC ACID, FUMARIC ACID, SODIUM CITRATE, SODIUM LACTATE, NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, BLUE 1 & 2, BLUE 1 & 2 LAKE, YELLOW 5 & 6 LAKE, YELLOW 5, TURMERIC (COLOR), BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-  },
   
 ]
