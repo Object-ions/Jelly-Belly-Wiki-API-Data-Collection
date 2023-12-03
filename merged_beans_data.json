@@ -15,7 +15,7 @@
   },
   {
     "BeanId": 2,
-    "GroupName": "Soda Pop Shoppe® Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Soda Pop Shoppe® Flavors",
     "FlavorName": "A&W® CREAM SODA",
     "BackgroundColor": "#E1DFE1",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/75fea694-ed38-4e84-a86e-182e31ea5a7b",
@@ -28,7 +28,7 @@
   },
   {
     "BeanId": 3,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Soda Pop Shoppe® Flavors",
     "FlavorName": "A&W® ROOT BEER",
     "BackgroundColor": "#792E27",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/63b9e71d-9866-4044-9af7-7a64a52b0e0e",
@@ -483,7 +483,7 @@
   },
   {
     "BeanId": 38,
-    "GroupName": "Jewel Jelly Beans Flavors",
+    "GroupName": "Jewel Jelly Beans Flavors, Sours Flavors",
     "FlavorName": "JEWEL SOUR APPLE",
     "BackgroundColor": "#2B9B39",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-jewel-sour-apple-shadow.webp",
@@ -496,7 +496,7 @@
   },
   {
     "BeanId": 39,
-    "GroupName": "Jewel Jelly Beans Flavors",
+    "GroupName": "Jewel Jelly Beans Flavors, Sours Flavors",
     "FlavorName": "JEWEL SOUR LEMON",
     "BackgroundColor": "#D6BA03",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/4bfae66c-e08a-4f33-a6c8-6e126927c6e9",
@@ -626,7 +626,7 @@
   },
   {
     "BeanId": 49,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Cocktail Classics® Flavors",
     "FlavorName": "MARGARITA",
     "BackgroundColor": "#7EB159",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/de15af51-3c70-4ecc-aa08-0421d2f8b9a6",
@@ -730,7 +730,7 @@
   },
   {
     "BeanId": 57,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "ORANGE SHERBET",
     "BackgroundColor": "#F79C72",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/4c7cc562-717a-4633-885a-d02c71cd0f4f",
@@ -743,10 +743,10 @@
   },
   {
     "BeanId": 58,
-     "GroupName": ""
+     "GroupName": "Krispy Kreme® Doughnuts Flavors",
     "FlavorName": "ORIGINAL GLAZED®",
-    "BackgroundColor": "#F79C72",
-    "ImageUrl":
+    "BackgroundColor": "#c2864b",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-original-glazed-shadow.webp",
     "Description": "The perfectly sweet flavor everyone loves to wake up to.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, CITRIC ACID, COCOA POWDER, NATURAL & ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, RED 40, VEGETABLE AND FRUIT JUICE (COLOR), TAPIOCA DEXTRIN, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, GROUND CINNAMON, SALT.",
     "GlutenFree": false,
@@ -769,7 +769,7 @@
   },
   {
     "BeanId": 60,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "PEACH",
     "BackgroundColor": "#EB8435",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/c75fe96b-333c-420d-869b-6fba2486a914",
@@ -808,10 +808,10 @@
   },
   {
     "BeanId": 63,
-    "GroupName":
-    "FlavorName": "PINA COLADA",
-    "BackgroundColor": "#da566a",
-    "ImageUrl":
+    "GroupName": "Cocktail Classics® Flavors",
+    "FlavorName": "PI\u00d1A COLADA",
+    "BackgroundColor": "#7EB159",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-margarita-shadow.webp",
     "Description": "Smooth & creamy with just a hint of tartness. Flavored with real pear and pineapple juices.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: COCONUT, CITRIC ACID, ARTIFICIAL FLAVORS, COLOR ADDED, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
     "GlutenFree": false,
@@ -834,7 +834,7 @@
   },
   {
     "BeanId": 65,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Superfruit Flavors",
     "FlavorName": "POMEGRANATE",
     "BackgroundColor": "#DD4B62",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/6cef85fd-9273-4490-bf69-6448d361adc7",
@@ -847,7 +847,6 @@
   },
   {
     "BeanId": 66,
-    "GroupName": "Cocktail Classics® Flavors",
     "FlavorName": "POMEGRANATE COSMO",
     "BackgroundColor": "#972C3F",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-pom-cosmo-sig-shading-shadow.webp",
@@ -860,7 +859,7 @@
   },
   {
     "BeanId": 67,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "RASPBERRY",
     "BackgroundColor": "#B11F29",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/0ad95037-f351-452b-b81e-62d07357ec35",
@@ -873,7 +872,7 @@
   },
   {
     "BeanId": 68,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "RED APPLE",
     "BackgroundColor": "#972C3F",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/488e9a3f-c4d2-4330-ab8e-bfc41205566a",
@@ -925,7 +924,7 @@
   },
   {
     "BeanId": 72,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors, Sours Flavors",
     "FlavorName": "SOUR CHERRY",
     "BackgroundColor": "#9E222C",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/a0ed8075-fc86-4fe9-ad34-64f70a250b46",
@@ -1003,7 +1002,7 @@
   },
   {
     "BeanId": 78,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Cocktail Classics® Flavors",
     "FlavorName": "STRAWBERRY DAIQUIRI",
     "BackgroundColor": "#B95A66",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/cce90e1d-7ced-4e18-a05b-734c36287baf",
@@ -1029,7 +1028,7 @@
   },
   {
     "BeanId": 80,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "STRAWBERRY JAM",
     "BackgroundColor": "#C02032",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/d3de2b1e-08ce-495e-9b6c-021d9fbc1601",
@@ -1055,7 +1054,7 @@
   },
   {
     "BeanId": 82,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
     "FlavorName": "SUNKIST® LEMON",
     "BackgroundColor": "#F9D501",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/3094b345-8a9e-4ec8-a079-f7a71241c006",
@@ -1068,7 +1067,7 @@
   },
   {
     "BeanId": 83,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
     "FlavorName": "SUNKIST® LIME",
     "BackgroundColor": "#D5DC55",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/c12f270c-e207-41a6-9a09-4df3024ea08a",
@@ -1081,7 +1080,7 @@
   },
   {
     "BeanId": 84,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
     "FlavorName": "SUNKIST® ORANGE",
     "BackgroundColor": "#F99B25",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/447dd4bc-23dd-4736-8343-18af394a1d4d",
@@ -1094,7 +1093,7 @@
   },
   {
     "BeanId": 85,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
     "FlavorName": "SUNKIST® PINK GRAPEFRUIT",
     "BackgroundColor": "#E6986B",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/3827a360-1573-4ed7-bf95-b80a4d4f610c",
@@ -1107,7 +1106,7 @@
   },
   {
     "BeanId": 86,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Sunkist® Citrus Mix Flavors",
     "FlavorName": "SUNKIST® TANGERINE",
     "BackgroundColor": "#EE734A",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/7b266567-cd0b-4c08-956a-734395bf7aed",
@@ -1146,7 +1145,7 @@
   },
   {
     "BeanId": 89,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "TOASTED MARSHMALLOW",
     "BackgroundColor": "#D8C6AB",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/bc97e1a9-0e2b-4dc6-8fde-d469d4c05ef3",
@@ -1173,7 +1172,7 @@
   },
   {
     "BeanId": 91,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "TUTTI-FRUITTI",
     "BackgroundColor": "#EFB3CB",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/6eadb43c-4536-4c25-a2b5-7452696ce22a",
@@ -1186,7 +1185,7 @@
   },
   {
     "BeanId": 92,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "VERY CHERRY",
     "BackgroundColor": "#AD1E34",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/d9051ec6-2970-4c88-8227-7f7e2fe1c76d",
@@ -1199,7 +1198,7 @@
   },
   {
     "BeanId": 93,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "WATERMELON",
     "BackgroundColor": "#264D16",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/559e929f-9e78-4f9b-a7e3-178efc226ba9",
@@ -1238,7 +1237,7 @@
   },
   {
     "BeanId": 96,
-    "GroupName": "Jelly Belly Official Flavors",
+    "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "LEMON LIME",
     "BackgroundColor": "#D5DC55",
     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/e1300522-2a05-429c-82b8-3c4f46754c5c",
@@ -1275,19 +1274,19 @@
     "Seasonal": false,
     "Kosher": false
   },
-  {
-    "BeanId": 99,
-    "GroupName":
-    "FlavorName": "PINA COLADA",
-    "BackgroundColor":
-    "ImageUrl":
-    "Description": "Smooth & creamy with just a hint of tartness. Flavored with real pear and pineapple juices.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: COCONUT, CITRIC ACID, ARTIFICIAL FLAVORS, COLOR ADDED, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-    },
+//   {
+//     "BeanId": 99,
+//     "GroupName": "Jelly Belly Official Flavors",
+//     "FlavorName": "PINA COLADA",
+//     "BackgroundColor": "#FDE96C",
+//     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/d1115056-ce78-498d-8c07-00032fe9bc5c",
+//     "Description": "Smooth & creamy with just a hint of tartness. Flavored with real pear and pineapple juices.",
+//     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: COCONUT, CITRIC ACID, ARTIFICIAL FLAVORS, COLOR ADDED, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
+//     "GlutenFree": false,
+//     "SugarFree": false,
+//     "Seasonal": false,
+//     "Kosher": false
+//     },
     {
     "BeanId": 100,
     "GroupName":
