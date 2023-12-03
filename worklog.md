@@ -55,7 +55,11 @@ Total time: 8 Hours, 20 Minutes
 12:30 AM - merge dynamic data and static data
 1:10 AM adjust content from merged dynamic and static data
 
+
+
+<!-- Dec 3, 2023 -->
 10:10 AM - adjusting content manually (cross data from dynamic and static json)
 11:00 AM - Sorting the data
 11:38 AM - Finish sorting the data from 1 to 103, start merging the static data
 12:20 PM - Keep update data manually
+12:35 PM - ~Break
