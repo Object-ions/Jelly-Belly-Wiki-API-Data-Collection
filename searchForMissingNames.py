@@ -42,16 +42,3 @@ for flavor in missing_flavors:
 # Optionally, you can also write the missing flavors to a file
 # with open('missing_flavors.json', 'w') as file:
 #     json.dump(missing_flavors, file, indent=4)
-
-
-
-# ** results **
-
-# a-w-root-bear
-# Apple-Pie-la-Cold-Stone
-# BerryBlue
-# BirthdayCake
-# BirthdayCakeRemix
-# BlueRaspberry
-# PinaColada
-# SourApple
