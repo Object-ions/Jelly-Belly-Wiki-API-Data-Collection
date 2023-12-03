@@ -56,3 +56,4 @@ Total time: 8 Hours, 20 Minutes
 1:10 AM adjust content from merged dynamic and static data
 
 10:10 AM - adjusting content manually (cross data from dynamic and static json)
+11:00 AM - Sorting the data
