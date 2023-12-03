@@ -53,3 +53,4 @@ Total time: 8 Hours, 20 Minutes
 11:20 PM - Working on scraper
 12:00 AM - Working on Scraper
 12:30 AM - merge dynamic data and static data
+1:10 AM adjust content from merged dynamic and static data
