@@ -1,0 +1,187 @@
+[
+    {
+        "FlavorName": "7UP",
+        "Description": "The refreshing and crisp flavor of lemon lime soda.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE"
+    },
+    {
+        "FlavorName": "A&W\u00ae CREAM SODA",
+        "Description": "A deliciously creamy take on the classic vanilla flavor.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "A&W\u00ae ROOT BEER",
+        "Description": "Say 'cheers' with the flavor of this all-American classic drink.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL & ARTIFICIAL FLAVORS, COLOR ADDED, VEGETABLE & FRUIT JUICE (COLOR), BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "DR PEPPER\u00ae",
+        "Description": "There's nothing like a Dr Pepper. The soda with a signature blend of 23 flavors packed into a jelly bean.",
+        "Ingredients": "INGREDIENTS: SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: SODIUM CITRATE, PHOSPHORIC ACID, NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, RED 40 LAKE, BLUE 2 LAKE, RED 40, YELLOW 5 LAKE, VEGETABLE & FRUIT JUICE (COLOR), BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, CAFFEINE."
+    },
+    {
+        "FlavorName": "FRENCH VANILLA",
+        "Description": "A jelly bean that tastes just like a vanilla bean.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: VANILLA BEANS, NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "GIN & TONIC",
+        "Description": "Zesty and bittersweet with hints of elderberry and lime.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL & ARTIFICIAL FLAVORs, COLOR ADDED, BLUE 1 LAKE, YELLOW 5 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, TAPIOCA DEXTRIN."
+    },
+    {
+        "FlavorName": "GLAZED BLUEBERRY CAKE",
+        "Description": "Enjoy the oven-baked like taste of blueberry cake without the crumbs!",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, CITRIC ACID, COCOA POWDER, NATURAL & ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, RED 40, VEGETABLE AND FRUIT JUICE (COLOR), TAPIOCA DEXTRIN, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, GROUND CINNAMON, SALT."
+    },
+    {
+        "FlavorName": "GRAPE CRUSH",
+        "Description": "A sweet grape flavor with an exciting rush of fun and flavor in every bean.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, TARTARIC ACID, GRAPE JUICE CONCENTRATE, ACACIA GUM, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, RED 40, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "GREEN APPLE",
+        "Description": "Tart and crisp flavor made from real apple juice.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, APPLE JUICE FROM CONCENTRATE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "ISLAND PUNCH",
+        "Description": "Take your taste buds to a tropical island paradise. Expertly flavored with a blend of juices from real fruits.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, PASSION FRUIT JUICE FROM CONCENTRATE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, BLUE 1 & 2 LAKE, BLUE 1 & 2, RED 40 LAKE, RED 40, YELLOW 5 LAKE, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL BERRY BLUE",
+        "Description": "A combination of fruits to give your taste buds the royal treatment.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL BLUEBERRY",
+        "Description": "A beautifully sparkling bean flavored with real blueberry puree for a taste that bursts with flavor.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, BLUEBERRY JUICE FROM PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, BLUE 1 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL BUBBLE GUM",
+        "Description": "This sparkly bean has everything but the bubble! Taking a trip down memory lane has never tasted so good.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: ARTIFICIAL FLAVOR, COLOR ADDED, RED 40 LAKE, RED 40, YELLOW 5 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL CHAMPAGNE",
+        "Description": "Ready to toast to any occasion with a classy irridescent finish, this bean contains all the flavour of a glass of bubbly without any of the alcohol.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL & ARTIFICIAL FLAVORS, CITRIC ACID, COLOR ADDED, MALTODEXTRIN, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL CREAM SODA",
+        "Description": "Creamy and smooth taste with a special sparkle that makes this bean shine.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL GINGER ALE",
+        "Description": "Includes a fizzy sensation with just the right blend of flavours. Perfect to enjoy on its own or mixed with other flavours.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL AND ARTIFICIAL FLAVORS, CITRIC ACID, COLOR ADDED, YELLOW 5, RED 40, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL GRAPE SODA",
+        "Description": "You just picked a winner! Flavourings of real grape juice give it a fresh from the vine taste.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, TARTARIC ACID, GRAPE JUICE CONCENTRATE, GUM ARABIC, NATURAL & ARTIFICIAL FLAVOR, VEGETABLE & FRUIT JUICE (COLOR), COLOR ADDED, RED 40, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE"
+    },
+    {
+        "FlavorName": "JEWEL ORANGE",
+        "Description": "A beautifully sparkling citrus treat flavored with real orange puree.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, ORANGE JUICE FROM ORANGE PUREE, 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, NATURAL FLAVOR, COLOR ADDED, YELLOW 6, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL SOUR APPLE",
+        "Description": "So shiny, so tart. Flavored with real apple juice.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, APPLE JUICE FROM CONCENTRATE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, FUMARIC ACID, SODIUM LACTATE, SODIUM CITRATE, ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5, YELLOW 5 LAKE, BLUE 1, BLUE 1 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL SOUR LEMON",
+        "Description": "A shiny bean that packs some serious pucker power. Flavored with real lemon puree to deliver a tasty tartness.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LEMON JUICE FROM PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, FUMARIC ACID, SODIUM LACTATE, SODIUM CITRATE, NATURAL FLAVOR, COLOR ADDED, YELLOW 5, YELLOW 5 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JEWEL VERY CHERRY",
+        "Description": "This bean sparkles like a ruby and is made with real cherry juice to burst with flavor.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CHERRY JUICE FROM CONCENTRATE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, ARTIFICIAL FLAVOR, COLOR ADDED, RED 40, RED 40 LAKE, TURMERIC (COLOR), BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "JUICY PEAR",
+        "Description": "With just one bite, it's easy to see why it's called Juicy Pear. The fresh sweet taste comes from flavorings of real pear.",
+        "Ingredients": "SUGAR, GLUCOSE SYRUP, MODIFIED CORNSTARCH, PEAR JUICE CONCENTRATE, FLAVOURING, ACIDITY REGULATOR (E330), GLAZING AGENTS (E901, E903, E904), COLOURS (E100, E171), FRUIT AND VEGETABLE CONCENTRATES (CARROT, PUMPKIN, SPIRULINA, APPLE, HIBISCUS), TAPIOCA DEXTRIN."
+    },
+    {
+        "FlavorName": "KIWI",
+        "Description": "A sweet and exotic taste made with flavorings of real kiwifruit.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, KIWI JUICE FROM CONCENTRATE, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5, BLUE 1, CITRIC ACID, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "KIWI STRAWBERRY",
+        "Description": "The iconic blend of tangy kiwi and sweet strawberry made famous by Snapple\u00ae in the form of a jelly bean.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CRANBERRY PUREE, RASPBERRY PUREE, GRAPE JUICE CONCENTRATE, MANGO JUICE CONCENTRATE, STRAWBERRY JUICE CONCENTRATE, KIWI JUICE CONCENTRATE, LEMON PUREE, CHERRY JUICE CONCENTRATE, CRANBERRY JUICE CONCENTRATE, NATURAL FLAVORS, CITRIC ACID, COLOR ADDED, GRAPE CONCENTRATE (COLOR), TURMERIC (COLOR), APPLE (COLOR), HIBISCUS (COLOR), BLACK CURRANT (COLOR), CARROT (COLOR), CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX."
+    },
+    {
+        "FlavorName": "LEMON",
+        "Description": "The perfect amount of pucker. Real lemon flavorings give these beans their tasty tartness.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LEMON JUICE FROM PUREE, 2% OR LESS OF THE FOLLOWING: SODIUM LACTATE, CITRIC ACID, NATURAL FLAVOR, COLOR ADDED, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "LEMON DROP",
+        "Description": "The classic candy that is sweet with just a hint of sour. Flavoured with real lemon puree.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LEMON JUICE FROM LEMON PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "LEMON LIME",
+        "Description": "The citrus match made in heaven and made with real lime juice concentrate.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LIME JUICE FROM CONCENTRATE, LEMON JUICE FROM LEMON PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, NATURAL FLAVORS, COLOR ADDED, YELLOW 5, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "LEMON MERINGUE PIE",
+        "Description": "A tart and sweet taste you'll swear was topped with meringue. Flavored with real lemon puree.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: LEMON PUREE, CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, VEGETABLE AND FRUIT JUICE (COLOR), YELLOW 5 & 6 LAKE, BLUE 2 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT."
+    },
+    {
+        "FlavorName": "LICORICE",
+        "Description": "Indulge in the unmistakable flavor that balances sweet with spice. Our traditional taste comes from real black licorice.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, BLUE 2 LAKE, YELLOW 6 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "MANDARIN ORANGE MANGO SMOOTHIE",
+        "Description": "Mix it up with this citrusy sweet blend. Flavored with real orange puree.",
+        "Ingredients": "SUGARS (SUGAR, CORN SYRUP, ORANGE PUREE), MODIFIED CORN STARCH, CITRIC ACID, FLAVORS, TITANIUM DIOXIDE, SHELLAC, SODIUM CITRATE, BEESWAX, CARNAUBA WAX, TARTRAZINE, SUNSET YELLOW FCF, ALLURA RED."
+    },
+    {
+        "FlavorName": "MANGO",
+        "Description": "Fresh and sweet. tropical island goodness flavored with real mango puree.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, MANGO JUICE FROM PUREE, MANGO JUICE FROM CONCENTRATE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, SODIUM CITRATE, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5 LAKE, YELLOW 5, BLUE 1 LAKE, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "MANGO MADNESS",
+        "Description": "Go mad for this sweet, fruity, and delicious mango flavor from Snapple\u00ae.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CRANBERRY PUREE, RASPBERRY PUREE, GRAPE JUICE CONCENTRATE, MANGO JUICE CONCENTRATE, STRAWBERRY JUICE CONCENTRATE, KIWI JUICE CONCENTRATE, LEMON PUREE, CHERRY JUICE CONCENTRATE, CRANBERRY JUICE CONCENTRATE, NATURAL FLAVORS, CITRIC ACID, COLOR ADDED, GRAPE CONCENTRATE (COLOR), TURMERIC (COLOR), APPLE (COLOR), HIBISCUS (COLOR), BLACK CURRANT (COLOR), CARROT (COLOR), CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX."
+    },
+    {
+        "FlavorName": "MANGO MILK TEA",
+        "Description": "A tropical treat with a bubbly twist. This fruity delight tastes just like your favorite boba milk tea drink.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: FRUIT AND VEGETABLE JUICE (COLOR), CITRIC ACID, CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED, YELLOW 5 LAKE."
+    },
+    {
+        "FlavorName": "MARGARITA",
+        "Description": "No tequila required. Made with a twist of lime juice.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LEMON JUICE FROM PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL AND ARTIFICIAL FLAVORS, CITRIC ACID, SODIUM CITRATE, COLOR ADDED, YELLOW 5, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "MATCHA MILK TEA",
+        "Description": "Savor the perfect blend of matcha milk tea and tapioca pearls in every bite.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: SPIRULINA EXTRACT (COLOR), TURMERIC (COLOR), CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX, NATURAL AND ARTIFICIAL FLAVORS, SALT, COLOR ADDED."
+    },
+    {
+        "FlavorName": "MIMOSA",
+        "Description": "A sophisticated combination of champagne and orange juice. There's no bubbly, but each is deliciously flavored with real orange puree.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: ORANGE PUREE, NATURAL & ARTIFICIAL FLAVORs, CITRIC ACID, SODIUM LACTATE, COLOR ADDED, YELLOW 6, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE."
+    },
+    {
+        "FlavorName": "MINT CHOCOLATE CHIP\u00ae",
+        "Description": "A delicious combination of chocolate and mint flavor in every bean.",
+        "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: COCOA POWDER, DARK CHOCOLATE (SUGAR, CHOCOLATE LIQUOR, COCOA BUTTER), NATURAL & ARTIFICIAL FLAVORS, COLOR ADDED, YELLOW 5 LAKE, BLUE 1 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, TAPIOCA DEXTRIN, SALT."
+    }
+]
