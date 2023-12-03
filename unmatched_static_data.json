@@ -1,0 +1,353 @@
+[
+    {
+        "GroupName": "Jelly Belly Official Flavors",
+        "FlavorName": "BERRY BLUE",
+        "BackgroundColor": "#0A9882",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/4e65d579-9595-4620-b6c4-a9606df99f3d"
+    },
+    {
+        "GroupName": "Jelly Belly Official Flavors",
+        "FlavorName": "CHILI MANGO",
+        "BackgroundColor": "#F79C72",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/4d406bdc-cd9a-422b-bb6f-a347a1144a4b"
+    },
+    {
+        "GroupName": "Jelly Belly Official Flavors",
+        "FlavorName": "PI\u00d1A COLADA",
+        "BackgroundColor": "#FDE96C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/d1115056-ce78-498d-8c07-00032fe9bc5c"
+    },
+    {
+        "GroupName": "Krispy Kreme® Doughnuts Flavors",
+        "FlavorName": "ORIGINAL GLAZED",
+        "BackgroundColor": "#c2864b",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-original-glazed-shadow.webp"
+    },
+    {
+        "GroupName": "Krispy Kreme® Doughnuts Flavors",
+        "FlavorName": "CHOCOLATE ICED WITH SPRINKLES",
+        "BackgroundColor": "#8F5656",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/b85e9c3d-d9b1-485e-b657-267f45a218a3"
+    },
+    {
+        "GroupName": "Jewel Jelly Beans Flavors",
+        "FlavorName": "JEWEL WILD BLACK BERRY",
+        "BackgroundColor": "#655277",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-wild-blackberry-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "BERRY BLUE",
+        "BackgroundColor": "#0A9882",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-berry-blue-shadow.webp"
+    },
+
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "GREEN APPLE",
+        "BackgroundColor": "#0E7534",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-green-apple-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "LEMON LIME",
+        "BackgroundColor": "#D5DC55",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-lemon-lime-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "SUNKIST® LEMON",
+        "BackgroundColor": "#F9D501",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sunkist-lemon-shadow-new.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "ORANGE SHERBET",
+        "BackgroundColor": "#F79C72",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-orange-sherbet-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "PEACH",
+        "BackgroundColor": "#EB8435",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-peach-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "RASPBERRY",
+        "BackgroundColor": "#B11F29",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-raspberry-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "RED APPLE",
+        "BackgroundColor": "#972C3F",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-red-apple-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "SOUR APPLE",
+        "BackgroundColor": "#5CA24A",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-sour-apple-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "SOUR CHERRY",
+        "BackgroundColor": "#9E222C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/dom-sour-cherry-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "STRAWBERRY JAM",
+        "BackgroundColor": "#C02032",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-strawbry-jam-sig-shading-shadow_2.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "TOASTED MARSHMALLOW",
+        "BackgroundColor": "#D8C6AB",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-toasted-marshmallow-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "TUTTI-FRUITTI",
+        "BackgroundColor": "#EFB3CB",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-tutti-fruiti-shadow-new.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "VERY CHERRY",
+        "BackgroundColor": "#AD1E34",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-very-cherry-shadow.webp"
+    },
+    {
+        "GroupName": "Kids Mix Flavors",
+        "FlavorName": "WATERMELON",
+        "BackgroundColor": "#264D16",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-watermelon-shadow.webp"
+    },
+    {
+        "GroupName": "Sunkist® Citrus Mix Flavors",
+        "FlavorName": "SUNKIST® LEMON",
+        "BackgroundColor": "#F9D501",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/c4a596d0-e751-4f8b-b894-58a4212d942f"
+    },
+    {
+        "GroupName": "Sunkist® Citrus Mix Flavors",
+        "FlavorName": "SUNKIST® LIME",
+        "BackgroundColor": "#D5DC55",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/cf9b989d-46b6-415d-96e0-d9ac4cb63e15"
+    },
+    {
+        "GroupName": "Sunkist® Citrus Mix Flavors",
+        "FlavorName": "SUNKIST® ORANGE",
+        "BackgroundColor": "#F99B25",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/487dfe82-605f-4088-90a0-f4217d137d77"
+    },
+    {
+        "GroupName": "Sunkist® Citrus Mix Flavors",
+        "FlavorName": "SUNKIST® PINK GRAPEFRUIT",
+        "BackgroundColor": "#E6986B",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/556d5af9-db36-440a-950e-4280e2705348"
+    },
+    {
+        "GroupName": "Sunkist® Citrus Mix Flavors",
+        "FlavorName": "SUNKIST® TANGERINE",
+        "BackgroundColor": "#EE734A",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/6ebb2a2f-42f6-452d-8907-5ba1efef38c2"
+    },
+    {
+        "GroupName": "Soda Pop Shoppe® Flavors",
+        "FlavorName": "A&W® CREAM SODA",
+        "BackgroundColor": "#E1DFE1",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-a-w-cream-soda-shadow.webp"
+    },
+    {
+        "GroupName": "Soda Pop Shoppe® Flavors",
+        "FlavorName": "A&W® ROOT BEER",
+        "BackgroundColor": "#792E27",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-a-w-root-beer-shadow.webp"
+    },
+    {
+        "GroupName": "Snapple\u2122 Mix Flavors",
+        "FlavorName": "FRUIT PUNCH",
+        "BackgroundColor": "#655277",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-fruit-punch-shadow.webp"
+    },
+
+    {
+        "GroupName": "Superfruit Flavors",
+        "FlavorName": "POMEGRANATE",
+        "BackgroundColor": "#DD4B62",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-pomegranate-shadow.webp"
+    },
+    {
+        "GroupName": "Cocktail Classics® Flavors",
+        "FlavorName": "MARGARITA",
+        "BackgroundColor": "#7EB159",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-margarita-shadow.webp"
+    },
+    {
+        "GroupName": "Cocktail Classics® Flavors",
+        "FlavorName": "PI\u00d1A COLADA",
+        "BackgroundColor": "#FDE96C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-pina-colada-shadow.webp"
+    },
+    {
+        "GroupName": "Cocktail Classics® Flavors",
+        "FlavorName": "STRAWBERRY DAIQUIRI",
+        "BackgroundColor": "#B95A66",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-strawberry-daiquiri-shadow.webp"
+    },
+    {
+        "GroupName": "Sours Flavors",
+        "FlavorName": "SOUR APPLE",
+        "BackgroundColor": "#5CA24A",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-apple-shadow.webp"
+    },
+    {
+        "GroupName": "Sours Flavors",
+        "FlavorName": "SOUR CHERRY",
+        "BackgroundColor": "#9E222C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sour-cherry-shadow.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE CHERRY",
+        "BackgroundColor": "#C02032",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-cherry-shadow-new.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE SIZZLING CINNAMON",
+        "BackgroundColor": "#DD4B62",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-sizzling-cinnamon-shadow.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE GREEN APPLE",
+        "BackgroundColor": "#2B9B39",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-green-apple-shadow.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE JUICY PEAR",
+        "BackgroundColor": "#c8cf65",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-juicy-pear-shadow-new.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE LEMON",
+        "BackgroundColor": "#e9d443",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-lemon-shadow-new.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE LICORICE",
+        "BackgroundColor": "#022F34",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-licorice-shadow.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE PINEAPPLE",
+        "BackgroundColor": "#FADF50",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-pineapple-shadow.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE BUTTERED POPCORN",
+        "BackgroundColor": "#FDE96C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-buttered-popcorn-shadow.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE STRAWBERRY",
+        "BackgroundColor": "#EFB3CB",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-strawberry-shadow.webp"
+    },
+    {
+        "GroupName": "Sugar-Free Assorted Flavors",
+        "FlavorName": "SUGAR-FREE TANGERINE",
+        "BackgroundColor": "#f99b24",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-tangerine-shadow-new.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "BERRY BLUE",
+        "BackgroundColor": "#0A9882",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-berry-blue-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "GREEN APPLE",
+        "BackgroundColor": "#0E7534",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-green-apple-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "ISLAND PUNCH",
+        "BackgroundColor": "#4F657C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-island-punch-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "KIWI",
+        "BackgroundColor": "#8EBF14",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-kiwi-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "LEMON LIME",
+        "BackgroundColor": "#D5DC55",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-lemon-lime-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "SUNKIST® LEMON",
+        "BackgroundColor": "#F9D501",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sunkist-lemon-shadow-new.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "MANGO",
+        "BackgroundColor": "#D1CA3D",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-mango-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "PEACH",
+        "BackgroundColor": "#EB8435",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-peach-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "SUNKIST® PINK GRAPEFRUIT",
+        "BackgroundColor": "#E6986B",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sunkist-pink-grapefruit-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "PI\u00d1A COLADA",
+        "BackgroundColor": "#FDE96C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-pina-colada-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "STRAWBERRY DAIQUIRI",
+        "BackgroundColor": "#B95A66",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-strawberry-daiquiri-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "SUNKIST® TANGERINE",
+        "BackgroundColor": "#EE734A",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-tangerine-sk-shadow.webp"
+    },
+    {
+        "GroupName": "Tropical Mix Flavors",
+        "FlavorName": "TOP BANANA",
+        "BackgroundColor": "#CCA42C",
+        "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/11441/files/7a2bb5de-706f-4e7a-8299-b9da3c5725f1",
+        "Image Bean": "https://cdn-tp1.mozu.com/9046-11441/cms/11441/files/78d106e0-093c-4b5f-aeef-243f1c1aed14"
+    }
+]
