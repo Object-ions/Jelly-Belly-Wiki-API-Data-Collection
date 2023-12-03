@@ -50,3 +50,4 @@ Total time: 8 Hours, 20 Minutes
 9:25 PM - Update Json file and get ready to merge data to one json file
 10:00 PM - Update Json file and get ready to merge data to one json file
 10:43 PM - working on a new script to merge both bean data
+11:20 PM - Working on scraper
