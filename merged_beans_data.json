@@ -10,7 +10,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 2,
@@ -23,7 +23,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 3,
@@ -36,7 +36,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 4,
@@ -49,7 +49,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 5,
@@ -62,7 +62,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 6,
@@ -75,7 +75,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 7,
@@ -88,7 +88,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 8,
@@ -101,7 +101,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 9,
@@ -114,7 +114,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 10,
@@ -127,7 +127,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 11,
@@ -140,7 +140,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 12,
@@ -153,7 +153,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 13,
@@ -166,7 +166,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 14,
@@ -179,7 +179,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 15,
@@ -192,7 +192,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 16,
@@ -205,7 +205,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 17,
@@ -218,7 +218,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 18,
@@ -231,7 +231,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 19,
@@ -244,7 +244,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 20,
@@ -257,7 +257,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 21,
@@ -270,7 +270,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 22,
@@ -283,7 +283,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 23,
@@ -296,7 +296,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 24,
@@ -309,7 +309,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 25,
@@ -322,7 +322,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 26,
@@ -335,7 +335,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 27,
@@ -348,7 +348,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 28,
@@ -361,7 +361,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 29,
@@ -374,7 +374,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 30,
@@ -387,7 +387,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 31,
@@ -400,7 +400,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 32,
@@ -413,7 +413,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 33,
@@ -426,7 +426,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 34,
@@ -439,7 +439,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 35,
@@ -452,7 +452,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 36,
@@ -465,7 +465,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 37,
@@ -478,7 +478,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 38,
@@ -491,7 +491,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 39,
@@ -504,7 +504,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 40,
@@ -517,7 +517,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 41,
@@ -530,7 +530,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 42,
@@ -543,7 +543,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 43,
@@ -556,7 +556,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 44,
@@ -569,7 +569,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 45,
@@ -582,7 +582,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
   {
     "BeanId": 46,
@@ -595,7 +595,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 47,
@@ -608,7 +608,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 48,
@@ -621,7 +621,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 49,
@@ -634,7 +634,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 50,
@@ -647,7 +647,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 51,
@@ -660,7 +660,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 52,
@@ -673,7 +673,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 53,
@@ -686,7 +686,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 54,
@@ -699,7 +699,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 55,
@@ -712,7 +712,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 56,
@@ -725,7 +725,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 57,
@@ -738,7 +738,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 58,
@@ -751,7 +751,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
   {
     "BeanId": 59,
@@ -764,7 +764,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 60,
@@ -777,7 +777,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 61,
@@ -790,7 +790,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
   {
     "BeanId": 62,
@@ -803,7 +803,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 63,
@@ -816,7 +816,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
   {
     "BeanId": 64,
@@ -829,7 +829,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 65,
@@ -842,7 +842,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 66,
@@ -854,7 +854,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 67,
@@ -867,7 +867,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 68,
@@ -880,33 +880,33 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 69,
-    "GroupName":
+    "GroupName": "Jelly Belly Official Flavors",
     "FlavorName": "ROSE",
-    "BackgroundColor": "",
-    "ImageUrl": 
+    "BackgroundColor": "#FF9BB3",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/0162eacd-3d45-4dae-b44f-262987ec1100",
     "Description": "The delicious flavour of a glass of bubbly that makes every occasion extra rosy.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL & ARTIFICIAL FLAVORS, CITRIC ACID, COLOR ADDED, RED 40, RED 3, BLUE 2 LAKE, RED 40 LAKE, MALTODEXTRIN, CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
     {
     "BeanId": 70,
-    "GroupName":
+    "GroupName": "JELLY BELLY OFFICIAL FLAVORS",
     "FlavorName": "S'MORES",
-    "BackgroundColor": "",
-    "ImageUrl": 
+    "BackgroundColor": "#E9CCAD",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/41f3ac58-a03d-4b75-b566-fc1ff9d1b336",
     "Description": "The perfect taste combination of marshmallow, graham cracker and chocolate. No campfire required.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, VEGETABLE AND FRUIT JUICE (COLOR), YELLOW 5 & 6 LAKE, BLUE 2 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
   {
     "BeanId": 71,
@@ -919,7 +919,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 72,
@@ -932,59 +932,59 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 73,
     "GroupName": "Sours Flavors",
     "FlavorName": "SOUR GRAPE",
     "BackgroundColor": "#3a7295",
-    "ImageUrl": "".
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/b03ee77c-fb40-485d-9457-00b685295329",
     "Description": "So sour. So good. Flavorings of real grape juice produces a fresh from the vine taste.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, TARTARIC ACID, GRAPE JUICE CONCENTRATE, GUM ARABIC, NATURAL & ARTIFICIAL FLAVOR, VEGETABLE & FRUIT JUICE (COLOR), COLOR ADDED, RED 40, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 74,
     "GroupName": "Sours Flavors",
     "FlavorName": "SOUR LEMON",
     "BackgroundColor": "#F9D501",
-    "ImageUrl": "".
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/93aa8039-d6f6-4d33-8562-4d250bc60ad3",
     "Description": "This bean packs extra pucker power. Real lemon puree' delivers its special tasty tartness.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, LEMON JUICE FROM PUREE, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, FUMARIC ACID, SODIUM LACTATE, SODIUM CITRATE, NATURAL FLAVOR, COLOR ADDED, YELLOW 5, YELLOW 5 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 75,
     "GroupName": "Sours Flavors",
     "FlavorName": "SOUR ORANGE",
     "BackgroundColor": "#F99B25",
-    "ImageUrl": "".
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/2c756f64-6b9e-413f-a0b6-54f9f033d4ed",
     "Description": "Pucker up! Flavored with real orange puree.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, GRAPE JUICE CONCENTRATE, LEMON PUREE, CHERRY JUICE CONCENTRATE, ORANGE PUREE, CITRIC ACID, FUMARIC ACID, SODIUM CITRATE, SODIUM LACTATE, NATURAL AND ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, BLUE 1 & 2, BLUE 1 & 2 LAKE, YELLOW 5 & 6 LAKE, YELLOW 5, TURMERIC (COLOR), BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 76,
-    "GroupName":
+    "GroupName": "JELLY BELLY OFFICIAL FLAVORS",
     "FlavorName": "STRAWBERRY BANANA SMOOTHIE",
-    "BackgroundColor": ,
-    "ImageUrl":
+    "BackgroundColor": "#E5932E",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/bc9729ec-1e40-4504-b41e-6cd0805fe599",
     "Description": "Go ahead. Mix it up! A delicious combo flavored with real strawberry and banana purees.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: POMEGRANATE JUICE CONCENTRATE, PEACH PUREE CONCENTRATE, BANANA PUREE, PEAR JUICE CONCENTRATE, NATURAL AND ARTIFICIAL FLAVORS, CITRIC ACID, SODIUM LACTATE, SODIUM CITRATE, COLOR ADDED, RED 40, YELLOW 5 & 6, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, RED 40 LAKE, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT, COFFEE, TAPIOCA DEXTRIN.",
      "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
   {
     "BeanId": 77,
@@ -997,7 +997,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 78,
@@ -1010,20 +1010,20 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 79,
     "GroupName": "Krispy Kreme® Doughnuts Flavors",
     "FlavorName": "STRAWBERRY ICED",
     "BackgroundColor": "#E798AB",
-    "ImageUrl": "".
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/af61cc87-48ba-4364-9417-5aa6767dc7c3",
     "Description": "Classic glazed donut flavors with the added indulgence of strawberry icing.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: APPLE JUICE CONCENTRATE, CITRIC ACID, COCOA POWDER, NATURAL & ARTIFICIAL FLAVORS, COLOR ADDED, RED 40 LAKE, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, RED 40, VEGETABLE AND FRUIT JUICE (COLOR), TAPIOCA DEXTRIN, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, GROUND CINNAMON, SALT.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 80,
@@ -1036,7 +1036,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 81,
@@ -1049,7 +1049,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 82,
@@ -1062,7 +1062,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 83,
@@ -1075,7 +1075,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 84,
@@ -1088,7 +1088,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 85,
@@ -1101,7 +1101,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 86,
@@ -1114,7 +1114,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 87,
@@ -1127,7 +1127,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 88,
@@ -1140,7 +1140,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 89,
@@ -1153,7 +1153,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "GroupName": "Jelly Belly Official Flavors, Tropical Mix Flavors",
@@ -1167,7 +1167,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 91,
@@ -1180,7 +1180,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 92,
@@ -1193,7 +1193,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 93,
@@ -1206,7 +1206,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 94,
@@ -1219,7 +1219,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 95,
@@ -1232,7 +1232,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 96,
@@ -1245,20 +1245,20 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 97,
-    "GroupName":
+    "GroupName": "JELLY BELLY OFFICIAL FLAVORS",
     "FlavorName": "LEMON MERINGUE PIE",
-    "BackgroundColor": ,
-    "ImageUrl": 
+    "BackgroundColor": "#F1C720",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/1896002b-1acf-44de-b540-1fb48c780d0e",
     "Description": "A tart and sweet taste you'll swear was topped with meringue. Flavored with real lemon puree.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: LEMON PUREE, CITRIC ACID, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, VEGETABLE AND FRUIT JUICE (COLOR), YELLOW 5 & 6 LAKE, BLUE 2 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
     },
   {
     "BeanId": 98,
@@ -1271,7 +1271,7 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
     "BeanId": 99,
@@ -1284,62 +1284,49 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
-    },
-    {
-    "BeanId": 100,
-    "GroupName":
-    "FlavorName": "BLUE RASPBERRY",
-    "BackgroundColor":
-    "ImageUrl":
-    "Description": "Enjoy the taste of a fresh-picked raspberry in a beautiful blue hue.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, SODIUM CITRATE, BLUE 1 LAKE, BLUE 1, CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-    },
-    {
-    "BeanId": 101,
-    "GroupName":
-    "FlavorName": "BLUE RASPBERRY",
-    "BackgroundColor":
-    "ImageUrl":
-    "Description": "Enjoy the taste of a fresh-picked raspberry in a beautiful blue hue.",
-    "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, SODIUM CITRATE, BLUE 1 LAKE, BLUE 1, CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX.",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-    },
+    "Kosher": true
+  },
   {
-    "BeanId": 102,
+  "BeanId": 100,
+  "GroupName": "JELLY BELLY OFFICIAL FLAVORS",
+  "FlavorName": "BLUE RASPBERRY",
+  "BackgroundColor": "#03698B",
+  "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/95aa0f7d-e369-4438-984c-f6dd1300664d",
+  "Description": "Enjoy the taste of a fresh-picked raspberry in a beautiful blue hue.",
+  "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, NATURAL AND ARTIFICIAL FLAVOR, COLOR ADDED, SODIUM CITRATE, BLUE 1 LAKE, BLUE 1, CONFECTIONER'S GLAZE, BEESWAX, CARNAUBA WAX.",
+  "GlutenFree": false,
+  "SugarFree": false,
+  "Seasonal": false,
+  "Kosher": true
+  },
+  {
+    "BeanId": 101,
     "GroupName": "Cold Stone® Flavors",
     "FlavorName": "BIRTHDAY CAKE REMIX®",
     "BackgroundColor": "#EEE7D8",
-    "ImageUrl": "".
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/76c3b0f3-ef88-4cee-9cf9-d75eb51622aa",
     "Description": "Party all the time with this unique ice cream flavor.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL & ARTIFICIAL FLAVORS, TAPIOCA DEXTRIN, COLOR ADDED, YELLOW 5 & 6 LAKE, RED 40 LAKE, RED 40, BLUE 1 & 2 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
-    "BeanId": 103,
-    "GroupName":
+    "BeanId": 102,
+    "GroupName": "JELLY BELLY OFFICIAL FLAVORS",
     "FlavorName": "BIRTHDAY CAKE",
-    "BackgroundColor":
-    "ImageUrl":
+    "BackgroundColor": "#EEE7D8",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/76c3b0f3-ef88-4cee-9cf9-d75eb51622aa",
     "Description": "Make everyday taste like your birthday.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: NATURAL & ARTIFICIAL FLAVORS, TAPIOCA DEXTRIN, COLOR ADDED, YELLOW 5 & 6 LAKE, RED 40 LAKE, RED 40, BLUE 1 & 2 LAKE, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT.",
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
-    "BeanId": 104,
+    "BeanId": 103,
     "GroupName": "Jelly Belly Official Flavors, Kids Mix Flavors",
     "FlavorName": "SOUR APPLE",
     "BackgroundColor": "#3C812A",
@@ -1349,150 +1336,137 @@
     "GlutenFree": false,
     "SugarFree": false,
     "Seasonal": false,
-    "Kosher": false
+    "Kosher": true
   },
   {
-    "BeanId": 105,
-    "GroupName": "Jewel Jelly Beans Flavors",
-    "FlavorName": "JEWEL WILD BLACK BERRY",
-    "BackgroundColor": "#655277",
-    "ImageUrl": "",
-    "Description": "",
-    "Ingredients": "",
-    "GlutenFree": false,
-    "SugarFree": false,
-    "Seasonal": false,
-    "Kosher": false
-  },
-  {
-    "BeanId": 102,
+    "BeanId": 104,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE CHERRY",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#C02032",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-cherry-shadow-new.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#C02032",
+    "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 105,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE SIZZLING CINNAMON",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#DD4B62",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-sizzling-cinnamon-shadow.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#DD4B62",
+    "Kosher": true
   },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE GREEN APPLE",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#2B9B39",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-green-apple-shadow.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#2B9B39",
+    "Kosher": true
   },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE JUICY PEAR",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#c8cf65",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-juicy-pear-shadow-new.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#c8cf65",
+    "Kosher": true
   },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE LEMON",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#e9d443",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-lemon-shadow-new.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#e9d443",
-},
+    "Kosher": true
+  },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE LICORICE",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#022F34",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-licorice-shadow.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#022F34",
+    "Kosher": true
   },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE PINEAPPLE",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#FADF50",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-pineapple-shadow.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#FADF50",
+    "Kosher": true
   },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE BUTTERED POPCORN",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#FDE96C",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-buttered-popcorn-shadow.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#FDE96C",
+    "Kosher": true
   },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE STRAWBERRY",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#EFB3CB",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-strawberry-shadow.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#EFB3CB",
+    "Kosher": true
   },
   {
     "BeanId": 102,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE TANGERINE",
     "Description": "",
-    "ImageUrl": "".
+    "BackgroundColor": "#f99b24",
+    "ImageUrl": "https://cdn-tp1.mozu.com/9046-11441/cms/files/dom-sugar-free-tangerine-shadow-new.webp",
     "Ingredients": "",
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false,
-    "BackgroundColor": "#f99b24",
+    "Kosher": true
   },
   {
     "BeanId": 102,
@@ -1505,6 +1479,6 @@
     "GlutenFree": false,
     "SugarFree": true,
     "Seasonal": false,
-    "Kosher": false
-  },
+    "Kosher": true
+  }
 ]
