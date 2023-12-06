@@ -72,3 +72,4 @@ Total time: 8 Hours, 20 Minutes
 8:30 PM - More on 3D models in web applications
 9:10 PM - Learn more about 3D modeling and rendering for web
 9:50 PM - Merging data from scraping
+11:06 PM - matching data
