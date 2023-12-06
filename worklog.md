@@ -68,3 +68,4 @@ Total time: 8 Hours, 20 Minutes
 5:25 PM - Learn how to create patterns in Photoshop for 3d models
 6:10 PM - Learn how to Photoshop extend texture around object tutorial
 6:55 PM - Learn how to create a dexute map and more reaserch about texture for 3D models
+7:35 PM - More on 3D models in web applications
