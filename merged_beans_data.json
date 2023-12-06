@@ -3,8 +3,7 @@
     "BeanId": 1,
     "GroupName": "Jelly Belly Official Flavors, Soda Pop Shoppe® Flavors",
     "FlavorName": "7UP",
-    "BackgroundColor": "#E1DFE1",
-    "BackgroundColor": "#83AD5C",
+    "BackgroundColor": "#CEDC91",
     "ImageUrl": "",
     "Description": "The refreshing and crisp flavor of lemon lime soda.",
     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: CITRIC ACID, SODIUM LACTATE, NATURAL & ARTIFICIAL FLAVOR, COLOR ADDED, YELLOW 5, BLUE 1, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE",
@@ -1274,19 +1273,19 @@
     "Seasonal": false,
     "Kosher": false
   },
-//   {
-//     "BeanId": 99,
-//     "GroupName": "Jelly Belly Official Flavors",
-//     "FlavorName": "PINA COLADA",
-//     "BackgroundColor": "#FDE96C",
-//     "ImageUrl": "https://cdn-tp1.mozu.com/9046-m1/cms/files/d1115056-ce78-498d-8c07-00032fe9bc5c",
-//     "Description": "Smooth & creamy with just a hint of tartness. Flavored with real pear and pineapple juices.",
-//     "Ingredients": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, CONTAINS 2% OR LESS OF THE FOLLOWING: COCONUT, CITRIC ACID, ARTIFICIAL FLAVORS, COLOR ADDED, YELLOW 5, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE.",
-//     "GlutenFree": false,
-//     "SugarFree": false,
-//     "Seasonal": false,
-//     "Kosher": false
-//     },
+  {
+    "BeanId": 99,
+    "GroupName": "Jelly Belly Official Flavors",
+    "FlavorName": "CHERRY PASSION FRUIT SMOOTHIE",
+    "BackgroundColor": "#",
+    "ImageUrl": "",
+    "Description": "The sweet and fruity flavors of cherry and passion fruit are blended to perfection in this unique smoothie flavor.",
+    "Ingredients": "Sugar, glucose syrup, modified cornstarch, passion fruit juice concentrate, flavourings, acidity regulator (E330), colours (E100, E171), glazing agents (E901, E903, E904), fruit and vegetable concentrates (purple carrot, carrot, black currant).",
+    "GlutenFree": false,
+    "SugarFree": false,
+    "Seasonal": false,
+    "Kosher": false
+    },
     {
     "BeanId": 100,
     "GroupName":
