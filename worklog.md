@@ -70,3 +70,4 @@ Total time: 8 Hours, 20 Minutes
 6:55 PM - Learn how to create a dexute map and more reaserch about texture for 3D models
 7:35 PM - More on 3D models in web applications
 8:30 PM - More on 3D models in web applications
+9:10 PM - Learn more about 3D modeling and rendering for web
