@@ -66,3 +66,4 @@ Total time: 8 Hours, 20 Minutes
 
 <!-- Dec 5, 2023 -->
 5:25 PM - Learn how to create patterns in Photoshop for 3d models
+6:10 PM - Learn how to Photoshop extend texture around object tutorial
