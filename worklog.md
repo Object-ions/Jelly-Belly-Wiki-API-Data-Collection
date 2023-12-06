@@ -63,3 +63,6 @@ Total time: 8 Hours, 20 Minutes
 11:38 AM - Finish sorting the data from 1 to 103, start merging the static data
 12:20 PM - Keep update data manually
 12:35 PM - ~Break
+
+<!-- Dec 5, 2023 -->
+5:25 PM - Learn how to create patterns in Photoshop for 3d models
