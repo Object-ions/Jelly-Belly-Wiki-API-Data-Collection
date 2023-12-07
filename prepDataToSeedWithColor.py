@@ -36,13 +36,15 @@ def prepDataToSeedWithColor(input_file, output_file, colors_output_file):
     with open(input_file, 'r') as file:
         data = json.load(file)
 
-    assigned_colors = set()  # To keep track of all assigned colors
+    color_to_hex = {}  # Mapping from color names to sets of hex codes
 
     # Function to transform each bean object
     def transform_bean(bean):
         background_color = bean.get('BackgroundColor', '').lstrip('#')
         color_group = get_color_name(background_color)
-        assigned_colors.add(color_group)  # Add the color to the set
+        if color_group not in color_to_hex:
+            color_to_hex[color_group] = set()
+        color_to_hex[color_group].add(f"#{background_color}")
         return (
             "new Bean\n{\n"
             f"\tBeanId = {bean.get('BeanId', '')},\n"
@@ -60,7 +62,7 @@ def prepDataToSeedWithColor(input_file, output_file, colors_output_file):
             "},\n\n"
         )
 
-    # Transform each bean in the data
+ # Process the beans and transform the data
     transformed_data = [transform_bean(bean) for bean in data]
 
     # Write the transformed data to the output file
@@ -68,10 +70,11 @@ def prepDataToSeedWithColor(input_file, output_file, colors_output_file):
         for bean in transformed_data:
             file.write(f"{bean}")
 
-    # Write the list of colors to the colors output file
+    # Write the color mapping to the colors output file
     with open(colors_output_file, 'w') as file:
-        for color in sorted(assigned_colors):
-            file.write(f"{color}\n")
+        for color, hex_codes in color_to_hex.items():
+            hex_codes_str = ', '.join(sorted(hex_codes))
+            file.write(f"{color}: [{hex_codes_str}]\n")
 
 # Call the function with the appropriate file names
 prepDataToSeedWithColor('toCapitalize.json', 'seeded_beans_with_color_name.txt', 'list_of_colors.txt')
