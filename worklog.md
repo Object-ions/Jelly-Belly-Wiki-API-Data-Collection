@@ -85,3 +85,4 @@ Total time: 8 Hours, 20 Minutes
 9:00 - Creating a new script to replace the "groupNAme" to actual color name
 9:45 - Working on assigning colors to beans in a table and explanation
 10:20 - scrape recipe combos
+11:43 - scrape data recipes
