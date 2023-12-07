@@ -1744,7 +1744,7 @@ new Bean
 
 new Bean
 {
-	BeanId = 102,
+	BeanId = 110,
 	GroupNameSerialized = "Sugar-Free Assorted Flavors",
 	FlavorName = "Sugar-Free Pineapple",
 	Description = "",
@@ -1760,7 +1760,7 @@ new Bean
 
 new Bean
 {
-	BeanId = 110,
+	BeanId = 111,
 	GroupNameSerialized = "Sugar-Free Assorted Flavors",
 	FlavorName = "Sugar-Free Buttered Popcorn",
 	Description = "",
@@ -1776,7 +1776,7 @@ new Bean
 
 new Bean
 {
-	BeanId = 111,
+	BeanId = 112,
 	GroupNameSerialized = "Sugar-Free Assorted Flavors",
 	FlavorName = "Sugar-Free Strawberry",
 	Description = "",
@@ -1792,7 +1792,7 @@ new Bean
 
 new Bean
 {
-	BeanId = 112,
+	BeanId = 113,
 	GroupNameSerialized = "Sugar-Free Assorted Flavors",
 	FlavorName = "Sugar-Free Tangerine",
 	Description = "",
@@ -1808,7 +1808,7 @@ new Bean
 
 new Bean
 {
-	BeanId = 113,
+	BeanId = 114,
 	GroupNameSerialized = "Sugar-Free Assorted Flavors",
 	FlavorName = "Jewel Berry Blue",
 	Description = "A Combination Of Fruits To Give Your Taste Buds The Royal Treatment.",
