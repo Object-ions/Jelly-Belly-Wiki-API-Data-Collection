@@ -80,3 +80,4 @@ Total time: 8 Hours, 20 Minutes
 5:00- 5:25 PM - Add notes and document the scripts in this repo and the json files
 6:05 - Add script to modify the data (to capitalize)
 6:42 - Update API models to work with collections
+7:22 - prepSeed the Ban data
