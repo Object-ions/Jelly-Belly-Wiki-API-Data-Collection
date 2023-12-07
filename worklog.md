@@ -86,3 +86,4 @@ Total time: 8 Hours, 20 Minutes
 9:45 - Working on assigning colors to beans in a table and explanation
 10:20 - scrape recipe combos
 11:43 - scrape data recipes
+12:44 - finish scrape Recipe

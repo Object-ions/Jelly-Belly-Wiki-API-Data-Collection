@@ -1,0 +1,608 @@
+["Green Apple",
+"+",
+"Green Apple",
+"+",
+"Cinnamon",
+"=",
+Apple Pie]
+
+
+
+["Top Banana"
+"+"
+"Top Banana"
+"+"
+"Buttered Popcorn"
+"="
+"Banana Bread"]
+
+
+
+
+["Top Banana"
+"+"
+"A&W® Cream Soda"
+"+"
+"Coconut"
+"="
+"Banana Cream Pie"]
+
+
+
+
+["Top Banana"
+"+"
+"Chocolate Pudding"
+"+"
+"Crushed Pineapple"
+"+"
+"Strawberry Jam"
+"+"
+"Very Cherry"
+"+"
+"French Vanilla"
+"="
+"Banana Split"]
+
+
+
+
+["Top Banana"
+"+"
+"Top Banana"
+"+"
+"Top Banana"
+"+"
+"Buttered Popcorn"
+"+"
+"French Vanilla"
+"="
+"Bananas Foster"]
+
+
+
+
+
+["Berry Blu"
+"+"
+"SUNKIST® Lemon"
+"="
+"Berry Lemonade"]
+
+
+
+["Blueberry"
+"+"
+"Strawberry Cheesecake"
+"+"
+"French Vanilla"
+"+"
+"A&W® Cream Soda"
+"="
+"Blueberry Cheesecake"]
+
+
+
+["Blueberry"
+"+"
+"Blueberry"
+"+"
+"Buttered Popcorn"
+"="
+"Blueberry Muffin"]
+
+
+
+
+["Blueberry"
+"+"
+"Caramel Corn"
+"+"
+"French Vanilla"
+"+"
+"Toasted Marshmallow"
+"+"
+"Toasted Marshmallow"
+"="
+"Blueberry Pancakes"]
+
+
+
+["Cappuccino"
+"+"
+"Cappuccino"
+"+"
+"Chocolate Pudding"
+"+"
+"French Vanilla"
+"="
+"Café Mocha"]
+
+
+
+["Green Apple"
+"+"
+"Green Apple"
+"+"
+"Cinnamon"
+"="
+"Candy Apple"]
+
+
+
+["Very Cherry"
+"+"
+"Very Cherry"
+"+"
+"Dr Pepper®"
+"="
+"Cherry Cola"]
+
+
+
+["Very Cherry"
+"+"
+"Very Cherry"
+"+"
+"Coconut"
+"+"
+"Buttered Popcorn"
+"="
+"Cherry Turnover"]
+
+
+
+["Very Cherry"
+"+"
+"Very Cherry"
+"+"
+"Chocolate Pudding"
+"="
+"Chocolate Covered Cherries"]
+
+
+
+["Top Banana"
+"+"
+"Chocolate Pudding"
+"="
+"Chocolate Dipped Banana"
+]
+
+
+["Strawberry Daiquiri"
+"+"
+"Strawberry Daiquiri"
+"+"
+"Chocolate Pudding"
+"="
+"Chocolate Dipped Strawberries"]
+
+
+
+["Chocolate Pudding"
+"+"
+"Coconut"
+"="
+"Chocolate Macaroons"]
+
+
+
+["Chocolate Pudding"
+"+"
+"Buttered Popcorn"
+"="
+"Chocolate Popcorn"]
+
+
+
+["Cinnamon"
+"+"
+"Bubble Gum"
+"="
+"Cinnamon Bubble Gum"]
+
+
+
+["Buttered Popcorn"
+"+"
+"Buttered Popcorn"
+"+"
+Sizzling "Cinnamon"
+"="
+"Cinnamon Popcorn"]
+
+
+
+
+["Cappuccino"
+"+"
+"Buttered Popcorn"
+"+"
+"French Vanilla"
+"="
+"Coffee Cake"
+]
+
+
+
+[Lime
+"+"
+"Cinnamon"
+"="
+"Cola"]
+
+
+
+
+["Island Punch"
+"+"
+"SUNKIST® Orange"
+"+"
+"Very Cherry"
+"="
+"Fruit Punch"]
+
+
+
+
+["Kiwi"
+"+"
+"Strawberry Jam"
+"+"
+"Blueberry"
+"+"
+"Cantaloupe"
+"="
+"Fruit Salad"]
+
+
+
+
+
+["Draft Beer"
+"+"
+"Draft Beer"
+"+"
+"Ginger Ale"
+"="
+"Ginger Beer"]
+
+
+
+
+["Green Apple"
+"+"
+Bubble Gum
+"+"
+Bubble Gum
+"="
+"Green Apple Bubble Gum"
+]
+
+
+
+["Red Apple"
+"+"
+"Red Apple"
+"+"
+"Cinnamon"
+"="
+"Hot Apple Cider"]
+
+
+
+
+["Toasted Marshmallow"
+"+"
+"Chocolate Pudding"
+"="
+"Hot Chocolate"]
+
+
+
+
+["French Vanilla"
+"+"
+"French Vanilla"
+"+"
+"Chocolate Pudding"
+"+"
+"A&W® Cream Soda"
+"+"
+"Very Cherry"
+"="
+"Hot Fudge Sundae"]
+
+
+
+
+["French Vanilla"
+"+"
+"Cappuccino"
+"="
+"Iced Vanilla Latte"
+]
+
+
+
+["Licorice"
+"+"
+"Buttered Popcorn"
+"+"
+"Buttered Popcorn"
+"="
+"Italian Biscotti"
+]
+
+
+
+["Lemon Lime"
+"+"
+"Toasted Marshmallow"
+"="
+"Key Lime Pie"]
+
+
+
+
+["Lemon"
+"+"
+"Lemon"
+"+"
+Vanilla
+"+"
+"Coconut"
+"="
+"Lemon squares"]
+
+
+
+
+["Mango"
+"+"
+"Crushed Pineapple"
+"+"
+"Chili Mango"
+"="
+"Mango Pineapple Salsa"]
+
+
+
+
+["Mango"
+"+"
+"Lemon Lime"
+"+"
+"Chili Mango"
+"="
+"Mango Tango Salsa"
+]
+
+
+["Draft Beer"
+"+"
+"Draft Beer"
+"+"
+"Lemon Lime"
+"+"
+"Tabasco®"
+"="
+"Michelada"]
+
+
+
+
+["Chocolate Pudding"
+"+"
+"Chocolate Pudding"
+"+"
+"Very Cherry"
+"="
+"Mud Pie"]
+
+
+
+
+[Orange Sherbet
+"+"
+Orange Sherbet
+"+"
+"A&W® Cream Soda"
+"="
+"Peach Bellini Drink"]
+
+
+
+
+[Peach
+"+"
+"A&W® Cream Soda"
+"="
+"Peaches and Cream"]
+
+
+
+
+[Cotton Candy
+"+"
+"SUNKIST® Lemon"
+"="
+"Pink Lemonade"]
+
+
+
+
+[Plum
+"+"
+plum
+"+"
+"French Vanilla"
+"="
+"Plum Pudding"]
+
+
+
+
+[Plum
+"+"
+Plum
+"+"
+"SUNKIST® Lemon"
+"+"
+"Green Apple"
+"="
+"Plum Sorbet"]
+
+
+
+
+[Plum
+"+"
+Plum
+"+"
+"Cinnamon"
+"+"
+"A&W® Cream Soda"
+"="
+"Plum Tart"]
+
+
+
+
+[Pumkin Pie
+"+"
+Pumkin Pie
+"+"
+"French Vanilla"
+"+"
+"Cappuccino"
+"="
+"Pumpkin Spice Latte"]
+
+
+
+
+[Raspberry
+"+"
+"Lemon Lime"
+"+"
+"Orange Sherbet"
+"="
+"Rainbow Sherbet"]
+
+
+
+
+"French Vanilla"
+"+"
+Raspberry
+"+"
+"Toasted Marshmallow"
+"="
+"Raspberry Crème Brûlée"
+
+
+
+
+[A&W® Root Beer
+"+"
+A&W® Root Beer
+"+"
+"A&W® Cream Soda"
+"="
+"Root Beer Float"
+]
+
+
+["Caramel Corn"
+"+"
+"Toasted Marshmallow"
+"+"
+"Toasted Marshmallow"
+"+"
+"Chocolate Pudding"
+"="
+"S'mores"]
+
+
+
+
+["Kiwi"
+"+"
+"Strawberry Daiquiri"
+"="
+"Strawberry-Kiwi Refresher"]
+
+
+
+
+["Strawberry Jam"
+"+"
+"French Vanilla"
+"="
+"Strawberry Shortcake"]
+
+
+
+
+["Top Banana"
+"+"
+"Top Banana"
+"+"
+"Cinnamon"
+"+"
+"Buttered Popcorn"
+"="
+"Sweet Fried Bananas"]
+
+
+
+["Margarita"
+"+"
+"Margarita"
+"+"
+"SUNKIST® Orange"
+"+"
+"Very Cherry"
+"="
+"Tequila Sunrise"]
+
+
+
+
+["Cappuccino"
+"+"
+"Cappuccino"
+"+"
+"A&W® Cream Soda"
+"+"
+"Chocolate Pudding"
+"="
+"Tiramisu"]
+
+
+
+
+["Watermelon"
+"+"
+"Bubble Gum"
+"+"
+"Bubble Gum"
+"="
+"Watermelon Bubble Gum"]
+
+
+
+
+["Wild Blackberry"
+"+"
+"Wild Blackberry"
+"+"
+"Peach"
+"+"
+"Peach"
+"+"
+"SUNKIST® Lemon"
+"="
+"Wild Blackberry Peach Cobbler"]
