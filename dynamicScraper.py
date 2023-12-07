@@ -31,8 +31,8 @@ with open("get_xpath.json", "r") as file:  # Corrected file name here
 extracted_data = []
 
 # Check if the results file already exists
-if os.path.exists("main_results.json"):
-    with open("main_results.json", "r") as file:
+if os.path.exists("dynamic_data.json"):
+    with open("dynamic_data.json", "r") as file:
         extracted_data = json.load(file)
 
 # Loop through each XPath and extract data
@@ -66,10 +66,10 @@ for xpath in button_xpaths:
         print(f"An error occurred while processing {xpath}: {e}")
 
 # Write the results to a JSON file
-with open("main_results.json", "w") as file:
+with open("dynamic_data.json", "w") as file:
     json.dump(extracted_data, file, indent=4)
 
 # Close the driver
 driver.quit()
 
-print("Results saved to main_results.json")
+print("Results saved to dynamic_data.json")
