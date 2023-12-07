@@ -1,51 +1,49 @@
-Steps to scrape:
+# Jelly Belly API Data Collection and Processing Workflow
 
-1. Get static data from url using `staticScraper.py`.
+## Overview
+This document outlines the workflow used for scraping, processing, and preparing Jelly Belly flavor data for API integration.
 
-This script will scrape the url and collect "static" data and export the output to `staticScraper.json`
+### 1. Data Collection
 
-url = 'https://www.jellybelly.com/jelly-belly-flavor-collections'
+#### Static Data Scraping (`staticScraper.py`)
+- **Purpose**: Scrapes static data from the Jelly Belly flavor collections webpage.
+- **Data Collected**:
+  - Group Name
+  - Flavor Name
+  - Background Color
+  - Image URL
+- **Output**: Data exported to `jelly_belly_flavors.json`.
 
-The data includes:
+#### Dynamic Data Scraping (`dynamicScraper.py` & `getXpathsBtns.py`)
+- **getXpathsBtns.py**:
+  - Identifies and extracts XPath of buttons on the Jelly Belly single flavors webpage that trigger data fetching.
+  - **Output**: XPaths saved in `button_xpaths.json`.
+- **dynamicScraper.py**:
+  - Uses these XPaths to control ChromeDriver to click on buttons and scrape dynamic data (Flavor Name, Description, Ingredients).
+  - **Output**: Data exported to `dynamic_data.json`.
 
-- "Group Name"
-- "Flavor Name"
-- "Background Color"
-- "Image URL"
+### 2. Data Merging and Cleaning
 
-2. Get "dynamic" data from url using: `dynamicScraper.py`, `getXpathsBtns.py`,
+#### Merging Data (`mergeBeansData.py`)
+- Normalizes and merges data from `static_data.json` and `dynamic_data.json`. Remove duplicates and adding a sequential BeanId to each entry.
+- Tracks and exports unmatched items from both datasets.
+- **Outputs**:
+  - Merged data in `merged_beans_data.json`.
+  - Unmatched static data in `unmatched_static_data.json`.
+  - Unmatched dynamic data in `unmatched_dynamic_data.json`.
 
-This stage will include a few steps:
+### 3. Data Validation
 
-A. `getXpathsBtns.py` - Run a script to target all buttons that will trigger the data fetching. Extract the buttons xpath and save the result in `button_xpaths.json`.
-B. `dynamicScraper.py` - Run a script to get ChromeDriver click on the coresponding xpaths of the buttons and collect data the includes:
+#### Searching for Missing Names (`searchForMissingNames.py`)
+- Compares expected flavor list (`beans_name_list.json`) with actual entries in `merged_beans.json`.
+- Identifies and displays missing flavors.
 
-- "FlavorName"
-- "Description"
-- "Ingredients"
-  and will export the output to `dynamic_data.json`.
+### 4. Data Formatting
 
-3. `mergeBeansData.py` - cross information and merge duplicates between files.
-   Load and normalize the data from 'static_data.json' and 'dynamic_data.json'. Merge the data based on the FlavorName .Keep track of and display items from both datasets that do not find a match. the data will be exported as follow:
-   Merged data saved to `merged_beans_data.json`
-   Unmatched static data saved to `unmatched_static_data.json`
-   Unmatched dynamic data saved to `unmatched_dynamic_data.json`
+#### Capitalization (`toCapitalize.py`)
+- Capitalizes strings in the data, excluding specific keys.
+- **Output**: Processed data in `main_results_capitalized.json`.
 
-4. Manually compare `merged_beans_data.json`, `unmatched_static_data.json`, `unmatched_dynamic_data.json` and extract a final file named `merged_beans_data.json` that will contain 113 objects with this entries:
-   "BeanId"
-   "GroupName"
-   "FlavorName"
-   "BackgroundColor"
-   "ImageUrl"
-   "Description"
-   "Ingredients"
-   "GlutenFree"
-   "SugarFree"
-   "Seasonal"
-   "Kosher"
-
-5. `toCapitalize.py` - This script will take the file that contain the data and turn it's content capitalized (exclude the entries)
-
-6. `prepToSeed.py` - this script will take the objects in `merged_beans_data.json` and format it to be ready to be seeded as data in the API
-
-
+#### Preparation for API Seeding (`prepToSeed.py`)
+- Formats data for seeding into the API.
+- **Note**: Specific operations of this script are not detailed yet.
