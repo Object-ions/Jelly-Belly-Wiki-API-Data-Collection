@@ -1,44 +1,52 @@
-import requests
-from bs4 import BeautifulSoup
-import json
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from webdriver_manager.chrome import ChromeDriverManager
 
-# URL of the website to scrape
-url = 'https://www.jellybelly.com/jelly-belly-bean-recipes'
+# Initialize ChromeDriver
+options = webdriver.ChromeOptions()
+options.add_argument('--headless')  # Optional: run without opening a browser window
+driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# Send an HTTP GET request to the URL
-response = requests.get(url)
+# Navigate to the page
+driver.get('https://www.jellybelly.com/jelly-belly-bean-recipes')
 
-# Parse the HTML content of the page using BeautifulSoup
-soup = BeautifulSoup(response.text, 'html.parser')
+# Initialize WebDriverWait
+wait = WebDriverWait(driver, 10)
 
-# Find the parent element with class "recipe-container"
-recipe_container = soup.find('div', class_='recipe-container')
+try:
+    # Wait for the element that contains the recipes to be visible
+    recipes_element = wait.until(EC.visibility_of_element_located(
+        (By.XPATH, '//*[@id="mz-drop-zone-recipecontent"]/div/div/div/div/section/div[1]/div/div/div[6]')))
 
-# Initialize a list to store the extracted information
-output_list = []
+    # Find all the 'block-container80' elements within the recipes element
+    recipe_blocks = recipes_element.find_elements(By.CLASS_NAME, 'block-container80')
 
-# Find all the child div elements with class "block-container80" inside the parent element
-child_containers = recipe_container.find_all('div', class_='block-container80')
+    # Array to store the recipes
+    recipes_array = []
 
-# Iterate through the child containers and extract the desired information
-for i, container in enumerate(child_containers):
-    # Extract the text from the h2 element inside the div with class "headline-beans"
-    h2_text = container.find('div', class_='headline-beans').h2.text.strip()
+    # Extract information from each recipe block
+    for block in recipe_blocks:
+        # Extract the recipe name
+        recipe_name = block.find_element(By.CLASS_NAME, 'headline-beans').find_element(By.TAG_NAME, 'h2').text
+        # Extract the 'alt' attributes from images, replacing 'plus' and 'equals'
+        ingredient_images = block.find_elements(By.TAG_NAME, 'img')
+        ingredients = [img.get_attribute('alt').replace('plus', '+').replace('equals', '=') for img in ingredient_images]
 
-    # Extract the "alt" attribute from all img elements within the <ul> tag
-    img_alt_list = [img['alt'] if img.get('alt') else img['src'].split('/')[-1].split('.')[0].replace("icon-", "").replace("R", "+") for img in container.ul.find_all('img')]
+        # Add the recipe name as the final element in the ingredient list
+        ingredients.append(recipe_name)
+        
+        # Add the ingredients list to the recipes array
+        recipes_array.append(ingredients)
 
-    # Add the h2_text as the first element of the list
-    img_alt_list.insert(0, h2_text)
+except TimeoutException:
+    print('The page took too long to load or the element could not be found.')
 
-    # Append the extracted list to the output list
-    output_list.append(img_alt_list)
+# Close the browser
+driver.quit()
 
-# Create a dictionary with the extracted information
-output_dict = {i: output_list[i] for i in range(len(output_list))}
-
-# Save the dictionary as a JSON file
-with open('recipe.json', 'w', encoding='utf-8') as json_file:
-    json.dump(output_dict, json_file, ensure_ascii=False, indent=4)
-
-print("Data saved to 'recipe.json'.")
+# Output the result
+print(recipes_array)
