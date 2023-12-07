@@ -81,3 +81,4 @@ Total time: 8 Hours, 20 Minutes
 6:05 - Add script to modify the data (to capitalize)
 6:42 - Update API models to work with collections
 7:22 - prepSeed the Ban data
+8:19 - prepSeed the Ban data script to txt
