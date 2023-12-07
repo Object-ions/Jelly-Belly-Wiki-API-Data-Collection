@@ -83,3 +83,4 @@ Total time: 8 Hours, 20 Minutes
 7:22 - prepSeed the Ban data
 8:19 - prepSeed the Ban data script to txt
 9:00 - Creating a new script to replace the "groupNAme" to actual color name
+9:45 - Working on assigning colors to beans in a table and explanation
