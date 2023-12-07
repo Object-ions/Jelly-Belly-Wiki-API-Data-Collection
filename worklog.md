@@ -74,3 +74,7 @@ Total time: 8 Hours, 20 Minutes
 9:50 PM - Merging data from scraping
 11:06 PM - matching data
 11:36 PM - last commit for the day
+
+<!-- Dec 6, 2023 -->
+
+5:00- 5:25 PM - Add notes and document the scripts in this repo and the json files
