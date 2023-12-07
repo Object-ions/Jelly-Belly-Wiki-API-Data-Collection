@@ -1365,7 +1365,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 106,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE GREEN APPLE",
     "Description": "",
@@ -1378,7 +1378,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 107,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE JUICY PEAR",
     "Description": "",
@@ -1391,7 +1391,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 108,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE LEMON",
     "Description": "",
@@ -1404,7 +1404,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 109,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE LICORICE",
     "Description": "",
@@ -1430,7 +1430,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 110,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE BUTTERED POPCORN",
     "Description": "",
@@ -1443,7 +1443,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 111,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE STRAWBERRY",
     "Description": "",
@@ -1456,7 +1456,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 112,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "SUGAR-FREE TANGERINE",
     "Description": "",
@@ -1469,7 +1469,7 @@
     "Kosher": true
   },
   {
-    "BeanId": 102,
+    "BeanId": 113,
     "GroupName": "Sugar-Free Assorted Flavors",
     "FlavorName": "JEWEL BERRY BLUE",
     "BackgroundColor": "085881",
