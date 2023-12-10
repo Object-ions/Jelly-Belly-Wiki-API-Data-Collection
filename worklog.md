@@ -98,3 +98,7 @@ Total time: 8 Hours, 20 Minutes
 8:22 PM finalize data. update small adjustments to seed
 
 10:40 modifying the Facts data
+
+<!-- Dec 10, 2023 -->
+
+11:10 - working with 3d model and rendering
