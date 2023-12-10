@@ -95,3 +95,4 @@ Total time: 8 Hours, 20 Minutes
 <!-- Dec 9, 2023 -->
 
 7:30 PM - Convert scraped Recipe data to seed data
+8:22 PM finalize data. update small adjustments to seed
