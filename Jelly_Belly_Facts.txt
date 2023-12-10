@@ -284,3 +284,65 @@ new Fact
   Title = "Signature Design",
   Description = "Every Jelly Belly bean is marked with the world-famous Jelly Belly logo and has a distinctive shape."
 },
+new Fact
+{
+  FactId = 42,
+  Title = "Flavor Distribution",
+  Description = "The flavor in Jelly Belly beans is packed into both the chewy center and the polished shell."
+},
+
+new Fact
+{
+  FactId = 43,
+  Title = "Guinness World Record",
+  Description = "In 2010, Jelly Belly set the Guinness World Record for the Largest Candy Art. The art piece made in China was 39 feet long and used approximately 617,000 Jelly Belly beans."
+},
+
+new Fact
+{
+  FactId = 44,
+  Title = "Stop-Motion Animation",
+  Description = "Jelly Belly donated 288,000 beans in 47 flavors for the world’s first jelly bean stop-motion animation music video 'In Your Arms' by Kina Grannis, released in November 2011."
+},
+
+new Fact
+{
+  FactId = 45,
+  Title = "Presidential Favorite",
+  Description = "President Ronald Reagan was a well-known fan of Jelly Belly, often snacking on them during cabinet meetings."
+},
+
+new Fact
+{
+  FactId = 46,
+  Title = "Reagan's Favorite Flavor",
+  Description = "Reagan's favorite Jelly Belly flavor was licorice, which may have been influenced by his attempt to quit pipe-smoking."
+},
+
+new Fact
+{
+  FactId = 47,
+  Title = "Candy Corn Legacy",
+  Description = "Despite its focus on jelly beans, Jelly Belly still produces candy corn, a nod to its historical roots."
+},
+
+new Fact
+{
+  FactId = 48,
+  Title = "Diverse Product Range",
+  Description = "Jelly Belly offers a variety of other candies, including chewy fish, gummi bears, gumdrops, Jordan almonds, and even hot chocolate bombs."
+},
+
+new Fact
+{
+  FactId = 49,
+  Title = "Themed Celebrations",
+  Description = "Jelly Belly beans are used to enhance themed celebrations, such as weddings, baby showers, New Year's Eve, and federal holidays with specially curated assortments."
+},
+
+new Fact
+{
+  FactId = 50,
+  Title = "Factory Tours",
+  Description = "The Jelly Belly Factory in Fairfield, California, offers tours where visitors can see the production process, view jelly bean mosaics, and purchase Jelly Belly products in the gift shop."
+},
