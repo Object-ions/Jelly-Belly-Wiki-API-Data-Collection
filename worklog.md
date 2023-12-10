@@ -1,9 +1,11 @@
 <!-- NOV 29, 2023 -->
+
 8 PM - 1 AM : trying to understand how to scrape info from 'jellybelly.com'
 
 Total time: 5 Hours
 
-<!-- NOV 30, 2023 --> 
+<!-- NOV 30, 2023 -->
+
 2:30 PM - 6:30 PM : trying to create a script to scrape data from 'https://www.jellybelly.com/jelly-belly-single-flavors' with a lot more information
 
 ~break
@@ -16,7 +18,8 @@ Total time: 5 Hours
 
 Total time: 5 Hours, 50 Minutes
 
-<!-- Dec 1, 2023 --> 
+<!-- Dec 1, 2023 -->
+
 3:05 PM - back on C# building API
 4:00 PM - Building Bean Controller
 4:30 PM - Get ready to work with query strings
@@ -31,12 +34,13 @@ Total time: 5 Hours, 50 Minutes
 10:33 PM - Separate data to seeders
 10:33 PM - Separate data to seeders
 11:25 PM - Update models, data seeders, DbContext and migrations to take array of strings as data.
-*** APP IS WORKING WITHOUT BUGS ***
+**_ APP IS WORKING WITHOUT BUGS _**
 commit SHA: (9c1df9c73195e9b0bb648bdf7db613c1533b6d19)
 
 Total time: 8 Hours, 20 Minutes
 
-<!-- Dec 2, 2023 --> 
+<!-- Dec 2, 2023 -->
+
 11:00 AM - Start planning basic structure for UI (InDesign)
 12:00 AM - Working on UI (InDesign)
 12:43 - 1:35 PM - Working on Scraping data
@@ -55,9 +59,8 @@ Total time: 8 Hours, 20 Minutes
 12:30 AM - merge dynamic data and static data
 1:10 AM adjust content from merged dynamic and static data
 
-
-
 <!-- Dec 3, 2023 -->
+
 10:10 AM - adjusting content manually (cross data from dynamic and static json)
 11:00 AM - Sorting the data
 11:38 AM - Finish sorting the data from 1 to 103, start merging the static data
@@ -65,6 +68,7 @@ Total time: 8 Hours, 20 Minutes
 12:35 PM - ~Break
 
 <!-- Dec 5, 2023 -->
+
 5:25 PM - Learn how to create patterns in Photoshop for 3d models
 6:10 PM - Learn how to Photoshop extend texture around object tutorial
 6:55 PM - Learn how to create a dexute map and more reaserch about texture for 3D models
@@ -87,3 +91,7 @@ Total time: 8 Hours, 20 Minutes
 10:20 - scrape recipe combos
 11:43 - scrape data recipes
 12:44 - finish scrape Recipe
+
+<!-- Dec 9, 2023 -->
+
+7:30 PM - Convert scraped Recipe data to seed data
