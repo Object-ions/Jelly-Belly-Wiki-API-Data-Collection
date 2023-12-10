@@ -96,3 +96,5 @@ Total time: 8 Hours, 20 Minutes
 
 7:30 PM - Convert scraped Recipe data to seed data
 8:22 PM finalize data. update small adjustments to seed
+
+10:40 modifying the Facts data
