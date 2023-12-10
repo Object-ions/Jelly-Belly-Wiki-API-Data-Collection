@@ -106,3 +106,4 @@ Total time: 8 Hours, 20 Minutes
 1:05 working with 3D model and web
 1:40 working with 3D model and web
 2:23 working with 3D model and web
+3:00 edit 10 best flavors to cover 3d model
