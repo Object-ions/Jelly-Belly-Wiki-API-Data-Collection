@@ -340,9 +340,352 @@ new Fact
   Description = "Jelly Belly beans are used to enhance themed celebrations, such as weddings, baby showers, New Year's Eve, and federal holidays with specially curated assortments."
 },
 
+
 new Fact
 {
   FactId = 50,
+  Title = "Holiday Themes",
+  Description = "Jelly Belly offers special flavors and blends for various holidays, including Christmas, Valentine's Day, and Halloween."
+},
+
+new Fact
+{
+  FactId = 51,
+  Title = "Famous Fan",
+  Description = "Ronald Reagan famously used Jelly Belly beans to quit smoking and even had a portrait made from Jelly Belly beans at the Reagan Presidential Library."
+},
+
+new Fact
+{
+  FactId = 52,
+  Title = "Confection Variety",
+  Description = "Jelly Belly's range extends beyond jelly beans, including chewy fish, gummi bears, gumdrops, Jordan almonds, and hot chocolate bombs."
+},
+
+new Fact
+{
+  FactId = 55,
+  Title = "Factory Art Gallery",
+  Description = "The Jelly Belly Factory features an art gallery with jelly bean mosaics of famous artworks and celebrities."
+},
+
+new Fact
+{
+  FactId = 54,
+  Title = "Required Factory Tour Attire",
+  Description = "Visitors on the Jelly Belly factory tour must wear silly sailor cap hats with the Jelly Belly logo."
+},
+
+new Fact
+{
+  FactId = 55,
+  Title = "Candy Art Record",
+  Description = "Jelly Belly holds the Guinness World Record for the largest candy art, a 59-foot long piece made with over 600,000 beans."
+},
+
+new Fact
+{
+  FactId = 56,
+  Title = "Innovative Recipes",
+  Description = "Jelly Belly pioneered the concept of combining bean flavors to create new tastes, like Lemon + Cotton Candy = Pink Lemonade."
+},
+
+new Fact
+{
+  FactId = 57,
+  Title = "Easter Popularity",
+  Description = "Easter is the biggest season for Jelly Belly consumption, followed by Christmas."
+},
+
+new Fact
+{
+  FactId = 58,
+  Title = "Calorie Count",
+  Description = "Each Jelly Belly jelly bean has only 4 calories."
+},
+
+new Fact
+{
+  FactId = 59,
+  Title = "Tour Days",
+  Description = "Jelly Belly gives tours on 722 days combined at their two locations."
+},
+
+new Fact
+{
+  FactId = 60,
+  Title = "BeanBoozled Variations",
+  Description = "The BeanBoozled line features flavors like sriracha, jalapeño, cayenne, habañero, and Carolina Reaper."
+},
+
+new Fact
+{
+  FactId = 61,
+  Title = "Collaborative Flavors",
+  Description = "Collaborations include Krispy Kreme, Fruit Loop, and 'unicorn mix' flavors."
+},
+
+new Fact
+{
+  FactId = 62,
+  Title = "Sport Beans",
+  Description = "Jelly Belly offers vitamin, electrolyte, and carbohydrate-infused Sports Beans, even with caffeine."
+},
+
+new Fact
+{
+  FactId = 63,
+  Title = "Discontinued Flavors",
+  Description = "Flavors like caramel apple, grape jelly, and peanut butter have been discontinued."
+},
+
+new Fact
+{
+  FactId = 66,
+  Title = "Dietary Information",
+  Description = "The beans are vegetarian, dairy-free, gluten-free, and OU Kosher, but not vegan."
+},
+
+new Fact
+{
+  FactId = 65,
+  Title = "Cost Savings",
+  Description = "‘Belly Flops’ are irregular beans sold at a discount, and bulk buys are available at places like Costco."
+},
+
+new Fact
+{
+  FactId = 66,
+  Title = "Presidential Affection",
+  Description = "Reagan's fixation with Jelly Belly began as a way to overcome his pipe-smoking habit."
+},
+
+new Fact
+{
+  FactId = 67,
+  Title = "Candy Corn Production",
+  Description = "Despite its jelly bean focus, Jelly Belly still produces candy corn."
+},
+
+new Fact
+{
+  FactId = 68,
+  Title = "Themed Party Enhancements",
+  Description = "Jelly Belly beans can be used for themed parties and events, offering a wide array of colors and flavors."
+},
+
+new Fact
+{
+  FactId = 69,
+  Title = "Visitor Sampling",
+  Description = "Guests on factory tours can sample Jelly Belly jelly beans during their visit."
+},
+
+new Fact
+{
+  FactId = 70,
+  Title = "Candy Technology Advancements",
+  Description = "Since the 1800s, candy technology has evolved significantly, with Jelly Belly at the forefront of innovation in jelly bean production."
+},
+
+new Fact
+{
+  FactId = 71,
+  Title = "Global Popularity",
+  Description = "People consume enough Jelly Belly beans annually to circle the globe more than five times."
+},
+
+new Fact
+{
+  FactId = 72,
+  Title = "Historical Slang Term",
+  Description = "In the early 20th century, 'jelly-bean' was slang for a stylish but superficial man."
+},
+
+new Fact
+{
+  FactId = 73,
+  Title = "Presidential Treat",
+  Description = "Jelly Belly beans were a staple in the Reagan White House, and a blueberry flavor was created specifically for his 1980 inauguration."
+},
+
+new Fact
+{
+  FactId = 74,
+  Title = "Flavor Expansion",
+  Description = "Jelly Belly expanded from eight original flavors in 1976 to over 100, including partnerships with brands for unique flavors."
+},
+
+new Fact
+{
+  FactId = 77,
+  Title = "Company Renaming",
+  Description = "In 2001, the Goelitz family companies merged to form the Jelly Belly Candy Company."
+},
+
+new Fact
+{
+  FactId = 76,
+  Title = "Controversy",
+  Description = "Jelly Belly's chairman faced backlash for donating to an anti-transgender rights fund in 2013."
+},
+
+new Fact
+{
+  FactId = 77,
+  Title = "Sport Beans Lawsuit",
+  Description = "Jelly Belly faced a lawsuit over the marketing of Sport Beans, which are infused with vitamins and electrolytes."
+},
+
+new Fact
+{
+  FactId = 78,
+  Title = "Jelly Belly in Space",
+  Description = "The beans were sent to space on the 1983 Challenger mission, becoming the first jelly beans in space."
+},
+
+new Fact
+{
+  FactId = 79,
+  Title = "Beer-Flavored Beans",
+  Description = "In 2014, Jelly Belly released beer-flavored beans, sparking controversy among parents."
+},
+
+new Fact
+{
+  FactId = 80,
+  Title = "Recipe Mix Line",
+  Description = "The company created a line called Recipe Mix, combining two flavors in one bean."
+},
+
+new Fact
+{
+  FactId = 81,
+  Title = "Variety in Gift Boxes",
+  Description = "Jelly Belly offers holiday-themed gift boxes with flavors like eggnog, candy cane, and pumpkin pie."
+},
+
+new Fact
+{
+  FactId = 82,
+  Title = "Clothing and Fashion Collaborations",
+  Description = "Jelly Belly has collaborated with clothing and fashion brands to create unique promotional items."
+},
+
+new Fact
+{
+  FactId = 83,
+  Title = "Sneaker and Nail Polish Collaborations",
+  Description = "The company has even partnered with Reebok for sneakers and Sally Hansen for candy-coated nail polish."
+},
+
+new Fact
+{
+  FactId = 84,
+  Title = "Celebrity and Artistic Mosaics",
+  Description = "Jelly Belly Factory hosts an art gallery with jelly bean mosaics of celebrities and famous artworks."
+},
+
+new Fact
+{
+  FactId = 85,
+  Title = "Unique Factory Tour Features",
+  Description = "The factory tour includes a requirement to wear Jelly Belly logo hats and offers fun photo opportunities."
+},
+
+new Fact
+{
+  FactId = 88,
+  Title = "Animal Product Use",
+  Description = "Jelly Belly beans do not use gelatin but include beeswax and shellac, making them non-vegan."
+},
+
+new Fact
+{
+  FactId = 87,
+  Title = "Caffeinated Sports Beans",
+  Description = "The brand offers Extreme Sports Beans containing caffeine for an energy boost."
+},
+
+new Fact
+{
+  FactId = 88,
+  Title = "Limited Time Flavors",
+  Description = "Some BeanBoozled flavors, like toothpaste and liver and onions, are available for a limited time."
+},
+
+new Fact
+{
+  FactId = 89,
+  Title = "Shelf Life and Storage",
+  Description = "Jelly Belly beans have a shelf life of one year, and consumers are advised to use their senses to determine if they have spoiled."
+},
+
+new Fact
+{
+  FactId = 90,
+  Title = "Presidential Portrait",
+  Description = "A portrait of Ronald Reagan made entirely out of Jelly Belly beans is displayed at the Reagan Presidential Library."
+},
+
+new Fact
+{
+  FactId = 91,
+  Title = "Air Force One Candy Dish",
+  Description = "Visitors to the Reagan Library can also see a vintage candy dish from Air Force One, typically filled with Jelly Belly beans."
+},
+
+new Fact
+{
+  FactId = 92,
+  Title = "Variety in Beverages",
+  Description = "Jelly Belly offers sugar-free, zero-calorie sparkling water in fun flavors like orange sherbet."
+},
+
+new Fact
+{
+  FactId = 93,
+  Title = "Event-Themed Beans",
+  Description = "For weddings, Jelly Belly offers a white and glamorous blend of flavors like cream soda, vanilla, and coconut."
+},
+
+new Fact
+{
+  FactId = 94,
+  Title = "Cake and Cupcake Toppers",
+  Description = "Jelly Belly beans are used as decorative and flavorful toppers for cakes and cupcakes on special occasions."
+},
+
+new Fact
+{
+  FactId = 95,
+  Title = "Holiday Blend Assortments",
+  Description = "Special assortments like the spring mix for Easter and Monster Mash blend for Halloween are offered seasonally."
+},
+
+new Fact
+{
+  FactId = 96,
+  Title = "Guinness World Record for Candy Art",
+  Description = "The company's 39-foot long candy art piece, created with over 600,000 beans, holds a world record."
+},
+
+new Fact
+{
+  FactId = 97,
+  Title = "Stop-Motion Animation Involvement",
+  Description = "Jelly Belly contributed to the creation of a pioneering stop-motion animation music video using their beans."
+},
+
+new Fact
+{
+  FactId = 98,
+  Title = "Factory Tour Samples",
+  Description = "Visitors on Jelly Belly factory tours have the opportunity to sample various flavors during their visit."
+},
+new Fact
+{
+  FactId = 99,
   Title = "Factory Tours",
   Description = "The Jelly Belly Factory in Fairfield, California, offers tours where visitors can see the production process, view jelly bean mosaics, and purchase Jelly Belly products in the gift shop."
-},
+}
