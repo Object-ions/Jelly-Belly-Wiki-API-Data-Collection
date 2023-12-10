@@ -102,3 +102,4 @@ Total time: 8 Hours, 20 Minutes
 <!-- Dec 10, 2023 -->
 
 11:10 - working with 3d model and rendering
+12:10 working with 3D model and web
