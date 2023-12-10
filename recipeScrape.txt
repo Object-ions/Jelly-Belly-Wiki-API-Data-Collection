@@ -1,106 +1,108 @@
-["Green Apple", "+", "Green Apple", "+", "Cinnamon", "=", "Apple Pie"]
+// Formatted to an array
 
-["Top Banana", "+", "Top Banana", "+", "Buttered Popcorn", "=", "Banana Bread"]
+["Green Apple + Green Apple + Cinnamon = Apple Pie"]
 
-["Top Banana", "+", "A&W® Cream Soda", "+", "Coconut", "=", "Banana Cream Pie"]
+["Top Banana + Top Banana + Buttered Popcorn = Banana Bread"]
 
-["Top Banana", "+", "Chocolate Pudding", "+", "Crushed Pineapple", "+", "Strawberry Jam", "+", "Very Cherry", "+", "French Vanilla", "=", "Banana Split"]
+["Top Banana + A&W® Cream Soda + Coconut = Banana Cream Pie"]
 
-["Top Banana", "+", "Top Banana", "+", "Top Banana", "+", "Buttered Popcorn", "+", "French Vanilla", "=", "Bananas Foster"]
+["Top Banana + Chocolate Pudding + Crushed Pineapple + Strawberry Jam + Very Cherry + French Vanilla = Banana Split"]
 
-["Berry Blu", "+", "SUNKIST® Lemon", "=", "Berry Lemonade"]
+["Top Banana + Top Banana + Top Banana + Buttered Popcorn + French Vanilla = Bananas Foster"]
 
-["Blueberry", "+", "Strawberry Cheesecake", "+", "French Vanilla", "+", "A&W® Cream Soda", "=", "Blueberry Cheesecake"]
+["Berry Blu + SUNKIST® Lemon = Berry Lemonade"]
 
-["Blueberry", "+", "Blueberry", "+", "Buttered Popcorn", "=", "Blueberry Muffin"]
+["Blueberry + Strawberry Cheesecake + French Vanilla + A&W® Cream Soda = Blueberry Cheesecake"]
 
-["Blueberry", "+", "Caramel Corn", "+", "French Vanilla", "+", "Toasted Marshmallow", "+", "Toasted Marshmallow", "=", "Blueberry Pancakes"]
+["Blueberry + Blueberry + Buttered Popcorn = Blueberry Muffin"]
 
-["Cappuccino", "+", "Cappuccino", "+", "Chocolate Pudding", "+", "French Vanilla", "=", "Café Mocha"]
+["Blueberry + Caramel Corn + French Vanilla + Toasted Marshmallow + Toasted Marshmallow = Blueberry Pancakes"]
 
-["Green Apple", "+", "Green Apple", "+", "Cinnamon", "=", "Candy Apple"]
+["Cappuccino + Cappuccino + Chocolate Pudding + French Vanilla = Café Mocha"]
 
-["Very Cherry", "+", "Very Cherry", "+", "Dr Pepper®", "=", "Cherry Cola"]
+["Green Apple + Green Apple + Cinnamon = Candy Apple"]
 
-["Very Cherry", "+", "Very Cherry", "+", "Coconut", "+", "Buttered Popcorn", "=", "Cherry Turnover"]
+["Very Cherry + Very Cherry + Dr Pepper® = Cherry Cola"]
 
-["Very Cherry", "+", "Very Cherry", "+", "Chocolate Pudding", "=", "Chocolate Covered Cherries"]
+["Very Cherry + Very Cherry + Coconut + Buttered Popcorn = Cherry Turnover"]
 
-["Top Banana", "+", "Chocolate Pudding", "=", "Chocolate Dipped Banana"]
+["Very Cherry + Very Cherry + Chocolate Pudding = Chocolate Covered Cherries"]
 
-["Strawberry Daiquiri", "+", "Strawberry Daiquiri", "+", "Chocolate Pudding", "=", "Chocolate Dipped Strawberries"]
+["Top Banana + Chocolate Pudding = Chocolate Dipped Banana"]
 
-["Chocolate Pudding", "+", "Coconut", "=", "Chocolate Macaroons"]
+["Strawberry Daiquiri + Strawberry Daiquiri + Chocolate Pudding = Chocolate Dipped Strawberries"]
 
-["Chocolate Pudding", "+", "Buttered Popcorn", "=", "Chocolate Popcorn"]
+["Chocolate Pudding + Coconut = Chocolate Macaroons"]
 
-["Cinnamon", "+", "Bubble Gum", "=", "Cinnamon Bubble Gum"]
+["Chocolate Pudding + Buttered Popcorn = Chocolate Popcorn"]
 
-["Buttered Popcorn", "+", "Buttered Popcorn", "+", "Sizzling Cinnamon", "=", "Cinnamon Popcorn"]
+["Cinnamon + Bubble Gum = Cinnamon Bubble Gum"]
 
-["Cappuccino", "+", "Buttered Popcorn", "+", "French Vanilla", "=", "Coffee Cake"]
+["Buttered Popcorn + Buttered Popcorn + Sizzling Cinnamon = Cinnamon Popcorn"]
 
-["Lime", "+", "Cinnamon", "=", "Cola"]
+["Cappuccino + Buttered Popcorn + French Vanilla = Coffee Cake"]
 
-["Island Punch", "+", "SUNKIST® Orange", "+", "Very Cherry", "=", "Fruit Punch"]
+["Lime + Cinnamon = Cola"]
 
-["Kiwi", "+", "Strawberry Jam", "+", "Blueberry", "+", "Cantaloupe", "=", "Fruit Salad"]
+["Island Punch + SUNKIST® Orange + Very Cherry = Fruit Punch"]
 
-["Draft Beer", "+", "Draft Beer", "+", "Ginger Ale", "=", "Ginger Beer"]
+["Kiwi + Strawberry Jam + Blueberry + Cantaloupe = Fruit Salad"]
 
-["Green Apple", "+", "Bubble Gum", "+", "Bubble Gum", "=", "Green Apple Bubble Gum"]
+["Draft Beer + Draft Beer + Ginger Ale = Ginger Beer"]
 
-["Red Apple", "+", "Red Apple", "+", "Cinnamon", "=", "Hot Apple Cider"]
+["Green Apple + Bubble Gum + Bubble Gum = Green Apple Bubble Gum"]
 
-["Toasted Marshmallow", "+", "Chocolate Pudding", "=", "Hot Chocolate"]
+["Red Apple + Red Apple + Cinnamon = Hot Apple Cider"]
 
-["French Vanilla", "+", "French Vanilla", "+", "Chocolate Pudding", "+", "A&W® Cream Soda", "+", "Very Cherry", "=", "Hot Fudge Sundae"]
+["Toasted Marshmallow + Chocolate Pudding = Hot Chocolate"]
 
-["French Vanilla", "+", "Cappuccino", "=", "Iced Vanilla Latte"]
+["French Vanilla + French Vanilla + Chocolate Pudding + A&W® Cream Soda + Very Cherry = Hot Fudge Sundae"]
 
-["Licorice", "+", "Buttered Popcorn", "+", "Buttered Popcorn", "=", "Italian Biscotti"]
+["French Vanilla + Cappuccino = Iced Vanilla Latte"]
 
-["Lemon Lime", "+", "Toasted Marshmallow", "=", "Key Lime Pie"]
+["Licorice + Buttered Popcorn + Buttered Popcorn = Italian Biscotti"]
 
-["Lemon", "+", "Lemon", "+", "Vanilla", "+", "Coconut", "=", "Lemon squares"]
+["Lemon Lime + Toasted Marshmallow = Key Lime Pie"]
 
-["Mango", "+", "Crushed Pineapple", "+", "Chili Mango", "=", "Mango Pineapple Salsa"]
+["Lemon + Lemon + Vanilla + Coconut = Lemon squares"]
 
-["Mango", "+", "Lemon Lime", "+", "Chili Mango", "=", "Mango Tango Salsa"]
+["Mango + Crushed Pineapple + Chili Mango = Mango Pineapple Salsa"]
 
-["Draft Beer", "+", "Draft Beer", "+", "Lemon Lime", "+", "Tabasco®", "=", "Michelada"]
+["Mango + Lemon Lime + Chili Mango = Mango Tango Salsa"]
 
-["Chocolate Pudding", "+", "Chocolate Pudding", "+", "Very Cherry", "=", "Mud Pie"]
+["Draft Beer + Draft Beer + Lemon Lime + Tabasco® = Michelada"]
 
-["Orange Sherbet", "+", "Orange Sherbet", "+", "A&W® Cream Soda", "=", "Peach Bellini Drink"]
+["Chocolate Pudding + Chocolate Pudding + Very Cherry = Mud Pie"]
 
-["Peach", "+", "A&W® Cream Soda", "=", "Peaches and Cream"]
+["Orange Sherbet + Orange Sherbet + A&W® Cream Soda = Peach Bellini Drink"]
 
-["Cotton Candy", "+", "SUNKIST® Lemon", "=", "Pink Lemonade"]
+["Peach + A&W® Cream Soda = Peaches and Cream"]
 
-["Plum", "+", "plum", "+", "French Vanilla", "=", "Plum Pudding"]
+["Cotton Candy + SUNKIST® Lemon = Pink Lemonade"]
 
-["Plum", "+", "Plum", "+", "SUNKIST® Lemon", "+", "Green Apple", "=", "Plum Sorbet"]
+["Plum + plum + French Vanilla = Plum Pudding"]
 
-["Plum", "+", "Plum", "+", "Cinnamon", "+", "A&W® Cream Soda", "=", "Plum Tart"]
+["Plum + Plum + SUNKIST® Lemon + Green Apple = Plum Sorbet"]
 
-["Pumkin Pie", "+", "Pumkin Pie", "+", "French Vanilla", "+", "Cappuccino", "=", "Pumpkin Spice Latte"]
+["Plum + Plum + Cinnamon + A&W® Cream Soda = Plum Tart"]
 
-["Raspberry", "+", "Lemon Lime", "+", "Orange Sherbet", "=", "Rainbow Sherbet"]
+["Pumkin Pie + Pumkin Pie + French Vanilla + Cappuccino = Pumpkin Spice Latte"]
 
-["French Vanilla", "+", "Raspberry", "+", "Toasted Marshmallow", "=", "Raspberry Crème Brûlée"]
+["Raspberry + Lemon Lime + Orange Sherbet = Rainbow Sherbet"]
 
-["A&W® Root Beer", "+", "A&W® Root Beer", "+", "A&W® Cream Soda", "=", "Root Beer Float"]
+["French Vanilla + Raspberry + Toasted Marshmallow = Raspberry Crème Brûlée"]
 
-["Caramel Corn", "+", "Toasted Marshmallow", "+", "Toasted Marshmallow", "+", "Chocolate Pudding", "=", "S'mores"]
+["A&W® Root Beer + A&W® Root Beer + A&W® Cream Soda = Root Beer Float"]
 
-["Kiwi", "+", "Strawberry Daiquiri", "=", "Strawberry-Kiwi Refresher"]
+["Caramel Corn + Toasted Marshmallow + Toasted Marshmallow + Chocolate Pudding = S'mores"]
 
-["Strawberry Jam", "+", "French Vanilla", "=", "Strawberry Shortcake"]
+["Kiwi + Strawberry Daiquiri = Strawberry-Kiwi Refresher"]
 
-["Top Banana", "+", "Top Banana", "+", "Cinnamon", "+", "Buttered Popcorn", "=", "Sweet Fried Bananas"]
+["Strawberry Jam + French Vanilla = Strawberry Shortcake"]
 
-["Margarita", "+", "Margarita", "+", "SUNKIST® Orange", "+", "Very Cherry", "=", "Tequila Sunrise"]
+["Top Banana + Top Banana + Cinnamon + Buttered Popcorn = Sweet Fried Bananas"]
 
-["Cappuccino", "+", "Cappuccino", "+", "A&W® Cream Soda", "+", "Chocolate Pudding", "=", "Tiramisu"]
+["Margarita + Margarita + SUNKIST® Orange + Very Cherry = Tequila Sunrise"]
+
+["Cappuccino + Cappuccino + A&W® Cream Soda + Chocolate Pudding = Tiramisu"]
 
