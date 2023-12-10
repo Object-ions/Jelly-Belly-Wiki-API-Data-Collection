@@ -366,13 +366,13 @@ new Recipe
 {
     RecipeId = 53,
     Name = "Tequila Sunrise",
-    Combination = new[] {"Margarita + Margarita + SUNKIST® Orange + Very Cherry}
+    Combination = new[] {"Margarita + Margarita + SUNKIST® Orange + Very Cherry"}
 },
 
 new Recipe
 {
     RecipeId = 54,
     Name = "Tiramisu",
-    Combination = new[] {"Cappuccino + Cappuccino + A&W® Cream Soda + Chocolate Pudding}
+    Combination = new[] {"Cappuccino + Cappuccino + A&W® Cream Soda + Chocolate Pudding"}
 }
 
