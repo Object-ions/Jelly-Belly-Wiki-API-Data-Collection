@@ -71,3 +71,27 @@ note : `beans_name_list.json` - is a copy of `get_xpaths_btn.json` with text mod
 - **Output**: `seeded_beans_with_color_name.txt`, `list_of_colors.txt`.
   'seeded_beans_with_color_name.txt' - is the finalize data ready to be seeded into the API with all 'Bean' properties.
   'list_of_colors.txt' - a supporting file - table that list all the hex color code that exist in the seeded data, include the color nickname.
+
+## 'Recipe' class scraping process:
+
+### 1. Data Collection
+
+#### (`getRecipe.py`)
+
+- **Purpose**: The purpose of this script is to automate the web scraping of a specific webpage (https://www.jellybelly.com/jelly-belly-bean-recipes), extract information about jelly bean recipes, and store the extracted data in a structured format.
+- **Input**: The input for this script is the URL of the webpage (https://www.jellybelly.com/jelly-belly-bean-recipes) containing jelly bean recipes.
+- **Outputs**: The main output of this script is a list (scrapedRecipe.txt) that contains information about jelly bean recipes, including their names and ingredients, and this list is printed to the console as the final output.
+
+### 2. Data Formatting
+
+#### (`scrapedRecipeFormat.txt`)
+
+- **Purpose**: Modify the scraped data format (manually with VS Code keyboard shortcuts) to match an array of strings in preparation for seeding.
+- **Input**: `scrapedRecipe.txt`
+- **Outputs**: `scrapedRecipeFormat.txt`
+
+#### (`prepRecipeToSeed.txt`)
+
+- **Purpose**: Modify the array of strings data format to match the Recipe model in preparation for seeding.
+- **Input**: `scrapedRecipeFormat.txt`
+- **Outputs**: `RecipeReadyToSeed.txt`
