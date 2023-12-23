@@ -95,3 +95,13 @@ note : `beans_name_list.json` - is a copy of `get_xpaths_btn.json` with text mod
 - **Purpose**: Modify the array of strings data format to match the Recipe model in preparation for seeding.
 - **Input**: `scrapedRecipeFormat.txt`
 - **Outputs**: `RecipeReadyToSeed.txt`
+
+## 'Recipe' class scraping process:
+
+### 1. Data Collection and formatting
+
+#### (`factsReadyToSeed.txt`)
+
+- **Purpose**: Retrieve 100 facts about Jelly Belly beans using an AI prompt, and subsequently, prompt the AI to format the data to prepare it for feeding into the 'Fact' model.
+- **Input**: Prompt: Generate 100 interesting and informative facts about Jelly Belly beans. Once you have the facts, please format the data in a way that it can be readily used for training the 'Fact' model (the prompt includes set of rules for formatting)
+- **Outputs**: `factsReadyToSeed.txt`
