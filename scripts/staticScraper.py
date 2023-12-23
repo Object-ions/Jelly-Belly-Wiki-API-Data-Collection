@@ -67,7 +67,7 @@ def scrape_jelly_belly_flavor_details_to_json():
                 print("Flavor details section not found")
 
             # Write data to JSON file
-            with open('jelly_belly_flavors.json', 'w', encoding='utf-8') as json_file:
+            with open('static_data.json', 'w', encoding='utf-8') as json_file:
                 json.dump(all_flavor_data, json_file, indent=4, ensure_ascii=False)
 
         else:

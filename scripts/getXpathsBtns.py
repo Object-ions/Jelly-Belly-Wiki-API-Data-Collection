@@ -34,7 +34,7 @@ for button in buttons:
 driver.quit()
 
 # Save the xpaths to a JSON file
-with open("button_xpaths.json", "w") as file:
+with open("get_xpaths_btn.json", "w") as file:
     json.dump(button_xpaths, file, indent=4)
 
-print("XPaths saved to button_xpaths.json")
+print("XPaths saved to get_xpaths_btn.json")
