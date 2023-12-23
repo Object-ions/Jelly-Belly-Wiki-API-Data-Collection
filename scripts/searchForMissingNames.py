@@ -39,6 +39,3 @@ print("Missing Flavors:")
 for flavor in missing_flavors:
     print(flavor)
 
-# Optionally, you can also write the missing flavors to a file
-# with open('missing_flavors.json', 'w') as file:
-#     json.dump(missing_flavors, file, indent=4)
