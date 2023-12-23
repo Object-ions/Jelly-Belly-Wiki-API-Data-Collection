@@ -78,10 +78,6 @@ To use the scripts in this repository, follow these step-by-step instructions:
 
 By following these steps, you can set up your environment and run the scripts to collect and process data from the Jelly Belly website. Remember to run the scripts in the order they are listed in the "Bean Class Scraping Process" and "Recipe Class Scraping Process" sections for optimal results and to avoid errors.
 
-## [Known Bugs](#known-bugs)
-
-- No known bugs.
-
 ## [Scraping and Data Processing](#scraping-and-processing)
 
 ### ['Bean' class scraping process](#bean-scraping)
@@ -187,6 +183,10 @@ note : `beans_name_list.json` - is a copy of `get_xpaths_btn.json` with text mod
 - **Purpose**: Retrieve 100 facts about Jelly Belly beans using an AI prompt, and subsequently, prompt the AI to format the data to prepare it for feeding into the 'Fact' model.
 - **Input**: Prompt: Generate 100 interesting and informative facts about Jelly Belly beans. Once you have the facts, please format the data in a way that it can be readily used for training the 'Fact' model (the prompt includes set of rules for formatting)
 - **Outputs**: `factsReadyToSeed.txt`
+
+## [Known Bugs](#known-bugs)
+
+- No known bugs.
 
 ## [Copyright and Data Accuracy Disclaimer](#copyright-and-data-accuracy-disclaimer)
 
