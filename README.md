@@ -12,22 +12,32 @@ This project is divided into three main segments, each with its own repository:
 2. [Jelly Belly Wiki API](https://github.com/Object-ions/Jelly-Belly-Wiki-API): The heart of the project, this repository holds the C# and EF Core .Net API with MySql migrations. It serves as the core database of the project. Detailed instructions on how to use this API are available in the repository, similar to the API Documentation provided in the UI.
 3. [Jelly Belly Wiki Client](https://github.com/Object-ions/Jelly_Belly_Wiki_Client): The User Interface makes full use of the API's database, showcasing one approach to design by utilizing all the endpoints and their various options.
 
+## [Live version of the UI](#live)
+
+[Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
+[Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
+
+- The UI deployed on Netlify.com
+- The API deployed on Render.com
+- The database deployed on TiDB.com
+
 ## Table of Contents
 
 1. [Project Description](#project-description)
-2. [Technologies Used](#technologies-used)
-3. [Setup / How to Use the Scripts](#setup--how-to-use-the-scripts)
-4. [Scraping and Data Processing](#scraping-and-processing)
+2. [Live version of the UI](#live)
+3. [Technologies Used](#technologies-used)
+4. [Setup / How to Use the Scripts](#setup--how-to-use-the-scripts)
+5. [Scraping and Data Processing](#scraping-and-processing)
    - A. ['Bean' class scraping process](#bean-scraping)
    - B. ['Recipe' class scraping process](#recipe-scraping)
    - C. ['Fact' class scraping process](#fact-scraping)
-5. [Copyright and Data Accuracy Disclaimer](#copyright-and-data-accuracy-disclaimer)
+6. [Copyright and Data Accuracy Disclaimer](#copyright-and-data-accuracy-disclaimer)
    - A. [Content Origin](#content-origin)
    - B. [Disclaimer](#disclaimer)
    - C. [Consumer Advice](#consumer-advice)
-6. [Known Bugs](#known-bugs)
-7. [License](#license)
-8. [contact](#contact)
+7. [Known Bugs](#known-bugs)
+8. [License](#license)
+9. [contact](#contact)
 
 ## [Technologies Used](#technologies-used)
 
