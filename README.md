@@ -12,7 +12,7 @@ This project is divided into three main segments, each with its own repository:
 2. [Jelly Belly Wiki API](https://github.com/Object-ions/Jelly-Belly-Wiki-API): The heart of the project, this repository holds the C# and EF Core .Net API with MySql migrations. It serves as the core database of the project. Detailed instructions on how to use this API are available in the repository, similar to the API Documentation provided in the UI.
 3. [Jelly Belly Wiki Client](https://github.com/Object-ions/Jelly_Belly_Wiki_Client): The User Interface makes full use of the API's database, showcasing one approach to design by utilizing all the endpoints and their various options.
 
-## [Live version of the UI](#live)
+## [Live versions](#live)
 
 [Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
 [Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
