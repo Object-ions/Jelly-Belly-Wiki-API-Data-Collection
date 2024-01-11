@@ -14,8 +14,8 @@ This project is divided into three main segments, each with its own repository:
 
 ## [Live versions](#live)
 
-[Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
-[Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
+* [Jelly Belly Wiki - UI](https://jelly-belly-wiki.netlify.app/)
+* [Jelly Belly Wiki - API](https://jellybellywikiapi.onrender.com/)
 
 - The UI deployed on Netlify.com
 - The API deployed on Render.com
